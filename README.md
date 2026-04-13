@@ -44,4 +44,5 @@ PHP ... Development Server (http://0.0.0.0:8000) started
 ## 代码文件
 
 - `index.php`：页面与功能逻辑
+- `words.json`：单词数据文件（可自行增删）
 - `styles.css`：样式
