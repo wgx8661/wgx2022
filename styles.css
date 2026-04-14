@@ -89,6 +89,13 @@ nav a.active {
     margin-top: 14px;
 }
 
+.audio-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 12px;
+}
+
 .btn {
     border: none;
     background: #2563eb;
@@ -102,6 +109,10 @@ nav a.active {
 
 .btn.success {
     background: #059669;
+}
+
+.btn.secondary {
+    background: #7c3aed;
 }
 
 .inline-form {

@@ -140,6 +140,24 @@ function buildChoices(array $words, int $answerIndex): array
             <p class="phonetic"><?php echo htmlspecialchars($item['phonetic']); ?></p>
             <p><strong>中文释义：</strong><?php echo htmlspecialchars($item['meaning']); ?></p>
             <p><strong>例句：</strong><?php echo htmlspecialchars($item['example']); ?></p>
+            <div class="audio-actions">
+                <button
+                    class="btn secondary"
+                    type="button"
+                    data-speak="<?php echo htmlspecialchars($item['word']); ?>"
+                    data-lang="en-US"
+                >
+                    🔊 播放单词
+                </button>
+                <button
+                    class="btn secondary"
+                    type="button"
+                    data-speak="<?php echo htmlspecialchars($item['example']); ?>"
+                    data-lang="en-US"
+                >
+                    🎵 播放例句
+                </button>
+            </div>
 
             <div class="actions">
                 <a class="btn" href="?tab=flashcard&word=<?php echo max(0, $flashIndex - 1); ?>">上一词</a>
@@ -188,5 +206,36 @@ function buildChoices(array $words, int $answerIndex): array
         </section>
     <?php endif; ?>
 </div>
+<script>
+(() => {
+    const speakButtons = document.querySelectorAll('[data-speak]');
+    if (!('speechSynthesis' in window) || speakButtons.length === 0) {
+        return;
+    }
+
+    const stopSpeaking = () => {
+        if (window.speechSynthesis.speaking) {
+            window.speechSynthesis.cancel();
+        }
+    };
+
+    speakButtons.forEach((button) => {
+        button.addEventListener('click', () => {
+            const text = button.getAttribute('data-speak');
+            const lang = button.getAttribute('data-lang') || 'en-US';
+            if (!text) {
+                return;
+            }
+
+            stopSpeaking();
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = lang;
+            utterance.rate = 0.95;
+            utterance.pitch = 1;
+            window.speechSynthesis.speak(utterance);
+        });
+    });
+})();
+</script>
 </body>
 </html>
