@@ -141,6 +141,7 @@ function buildChoices(array $words, int $answerIndex): array
             <p class="phonetic"><?php echo htmlspecialchars($item['phonetic']); ?></p>
             <p><strong>中文释义：</strong><?php echo htmlspecialchars($item['meaning']); ?></p>
             <p><strong>例句：</strong><?php echo htmlspecialchars($item['example']); ?></p>
+
             <div class="audio-actions">
                 <button
                     class="btn secondary"
@@ -219,6 +220,7 @@ function buildChoices(array $words, int $answerIndex): array
                             <p class="phonetic"><?php echo htmlspecialchars($word['phonetic']); ?></p>
                             <p><strong>中文释义：</strong><?php echo htmlspecialchars($word['meaning']); ?></p>
                             <p><strong>例句：</strong><?php echo htmlspecialchars($word['example']); ?></p>
+
                         </div>
                         <div class="word-actions">
                             <button

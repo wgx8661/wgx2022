@@ -82,6 +82,10 @@ nav a.active {
     margin-top: 6px;
 }
 
+.example-cn {
+    color: #374151;
+}
+
 .actions {
     display: flex;
     flex-wrap: wrap;
