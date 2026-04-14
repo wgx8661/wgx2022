@@ -138,8 +138,43 @@ nav a.active {
     font-weight: bold;
 }
 
+.word-list {
+    display: grid;
+    gap: 12px;
+    margin-top: 16px;
+}
+
+.word-item {
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 14px;
+    display: flex;
+    justify-content: space-between;
+    gap: 14px;
+}
+
+.word-item h3 {
+    margin: 0;
+}
+
+.word-actions {
+    min-width: 140px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: flex-start;
+}
+
 @media (max-width: 700px) {
     .stats {
         grid-template-columns: 1fr;
+    }
+
+    .word-item {
+        flex-direction: column;
+    }
+
+    .word-actions {
+        min-width: auto;
     }
 }
