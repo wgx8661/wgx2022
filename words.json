@@ -1,62 +1,7002 @@
 [
   {
-    "word": "abandon",
-    "phonetic": "/əˈbændən/",
-    "meaning": "放弃；遗弃",
-    "example": "Do not abandon your goals too early."
+    "word": "a",
+    "phonetic": "",
+    "meaning": "一个",
+    "example": "This is an simple example with 'a'.",
+    "example_cn": "这是一个包含“a”的简单例句。"
+  },
+  {
+    "word": "i",
+    "phonetic": "",
+    "meaning": "我",
+    "example": "This is an simple example with 'i'.",
+    "example_cn": "这是一个包含“i”的简单例句。"
+  },
+  {
+    "word": "you",
+    "phonetic": "",
+    "meaning": "你",
+    "example": "This is a simple example with 'you'.",
+    "example_cn": "这是一个包含“you”的简单例句。"
+  },
+  {
+    "word": "he",
+    "phonetic": "",
+    "meaning": "他",
+    "example": "This is a simple example with 'he'.",
+    "example_cn": "这是一个包含“he”的简单例句。"
+  },
+  {
+    "word": "she",
+    "phonetic": "",
+    "meaning": "她",
+    "example": "This is a simple example with 'she'.",
+    "example_cn": "这是一个包含“she”的简单例句。"
+  },
+  {
+    "word": "it",
+    "phonetic": "",
+    "meaning": "它",
+    "example": "This is an simple example with 'it'.",
+    "example_cn": "这是一个包含“it”的简单例句。"
+  },
+  {
+    "word": "we",
+    "phonetic": "",
+    "meaning": "我们",
+    "example": "This is a simple example with 'we'.",
+    "example_cn": "这是一个包含“we”的简单例句。"
+  },
+  {
+    "word": "they",
+    "phonetic": "",
+    "meaning": "他们",
+    "example": "This is a simple example with 'they'.",
+    "example_cn": "这是一个包含“they”的简单例句。"
+  },
+  {
+    "word": "me",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'me'.",
+    "example_cn": "这是一个包含“me”的简单例句。"
+  },
+  {
+    "word": "him",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'him'.",
+    "example_cn": "这是一个包含“him”的简单例句。"
+  },
+  {
+    "word": "her",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'her'.",
+    "example_cn": "这是一个包含“her”的简单例句。"
+  },
+  {
+    "word": "us",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'us'.",
+    "example_cn": "这是一个包含“us”的简单例句。"
+  },
+  {
+    "word": "them",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'them'.",
+    "example_cn": "这是一个包含“them”的简单例句。"
+  },
+  {
+    "word": "my",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'my'.",
+    "example_cn": "这是一个包含“my”的简单例句。"
+  },
+  {
+    "word": "your",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'your'.",
+    "example_cn": "这是一个包含“your”的简单例句。"
+  },
+  {
+    "word": "his",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'his'.",
+    "example_cn": "这是一个包含“his”的简单例句。"
+  },
+  {
+    "word": "its",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'its'.",
+    "example_cn": "这是一个包含“its”的简单例句。"
+  },
+  {
+    "word": "our",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'our'.",
+    "example_cn": "这是一个包含“our”的简单例句。"
+  },
+  {
+    "word": "their",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'their'.",
+    "example_cn": "这是一个包含“their”的简单例句。"
+  },
+  {
+    "word": "mine",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'mine'.",
+    "example_cn": "这是一个包含“mine”的简单例句。"
+  },
+  {
+    "word": "yours",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'yours'.",
+    "example_cn": "这是一个包含“yours”的简单例句。"
+  },
+  {
+    "word": "hers",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hers'.",
+    "example_cn": "这是一个包含“hers”的简单例句。"
+  },
+  {
+    "word": "ours",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'ours'.",
+    "example_cn": "这是一个包含“ours”的简单例句。"
+  },
+  {
+    "word": "theirs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'theirs'.",
+    "example_cn": "这是一个包含“theirs”的简单例句。"
+  },
+  {
+    "word": "this",
+    "phonetic": "",
+    "meaning": "这个",
+    "example": "This is a simple example with 'this'.",
+    "example_cn": "这是一个包含“this”的简单例句。"
+  },
+  {
+    "word": "that",
+    "phonetic": "",
+    "meaning": "那个",
+    "example": "This is a simple example with 'that'.",
+    "example_cn": "这是一个包含“that”的简单例句。"
+  },
+  {
+    "word": "these",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'these'.",
+    "example_cn": "这是一个包含“these”的简单例句。"
+  },
+  {
+    "word": "those",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'those'.",
+    "example_cn": "这是一个包含“those”的简单例句。"
+  },
+  {
+    "word": "who",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'who'.",
+    "example_cn": "这是一个包含“who”的简单例句。"
+  },
+  {
+    "word": "what",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'what'.",
+    "example_cn": "这是一个包含“what”的简单例句。"
+  },
+  {
+    "word": "which",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'which'.",
+    "example_cn": "这是一个包含“which”的简单例句。"
+  },
+  {
+    "word": "where",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'where'.",
+    "example_cn": "这是一个包含“where”的简单例句。"
+  },
+  {
+    "word": "when",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'when'.",
+    "example_cn": "这是一个包含“when”的简单例句。"
+  },
+  {
+    "word": "why",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'why'.",
+    "example_cn": "这是一个包含“why”的简单例句。"
+  },
+  {
+    "word": "how",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'how'.",
+    "example_cn": "这是一个包含“how”的简单例句。"
+  },
+  {
+    "word": "all",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'all'.",
+    "example_cn": "这是一个包含“all”的简单例句。"
+  },
+  {
+    "word": "any",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'any'.",
+    "example_cn": "这是一个包含“any”的简单例句。"
+  },
+  {
+    "word": "some",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'some'.",
+    "example_cn": "这是一个包含“some”的简单例句。"
+  },
+  {
+    "word": "many",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'many'.",
+    "example_cn": "这是一个包含“many”的简单例句。"
+  },
+  {
+    "word": "much",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'much'.",
+    "example_cn": "这是一个包含“much”的简单例句。"
+  },
+  {
+    "word": "more",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'more'.",
+    "example_cn": "这是一个包含“more”的简单例句。"
+  },
+  {
+    "word": "most",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'most'.",
+    "example_cn": "这是一个包含“most”的简单例句。"
+  },
+  {
+    "word": "few",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'few'.",
+    "example_cn": "这是一个包含“few”的简单例句。"
+  },
+  {
+    "word": "little",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'little'.",
+    "example_cn": "这是一个包含“little”的简单例句。"
+  },
+  {
+    "word": "other",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'other'.",
+    "example_cn": "这是一个包含“other”的简单例句。"
+  },
+  {
+    "word": "another",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'another'.",
+    "example_cn": "这是一个包含“another”的简单例句。"
+  },
+  {
+    "word": "each",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'each'.",
+    "example_cn": "这是一个包含“each”的简单例句。"
+  },
+  {
+    "word": "every",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'every'.",
+    "example_cn": "这是一个包含“every”的简单例句。"
+  },
+  {
+    "word": "both",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'both'.",
+    "example_cn": "这是一个包含“both”的简单例句。"
+  },
+  {
+    "word": "either",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'either'.",
+    "example_cn": "这是一个包含“either”的简单例句。"
+  },
+  {
+    "word": "neither",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'neither'.",
+    "example_cn": "这是一个包含“neither”的简单例句。"
+  },
+  {
+    "word": "one",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'one'.",
+    "example_cn": "这是一个包含“one”的简单例句。"
+  },
+  {
+    "word": "two",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'two'.",
+    "example_cn": "这是一个包含“two”的简单例句。"
+  },
+  {
+    "word": "three",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'three'.",
+    "example_cn": "这是一个包含“three”的简单例句。"
+  },
+  {
+    "word": "four",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'four'.",
+    "example_cn": "这是一个包含“four”的简单例句。"
+  },
+  {
+    "word": "five",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'five'.",
+    "example_cn": "这是一个包含“five”的简单例句。"
+  },
+  {
+    "word": "six",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'six'.",
+    "example_cn": "这是一个包含“six”的简单例句。"
+  },
+  {
+    "word": "seven",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'seven'.",
+    "example_cn": "这是一个包含“seven”的简单例句。"
+  },
+  {
+    "word": "eight",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'eight'.",
+    "example_cn": "这是一个包含“eight”的简单例句。"
+  },
+  {
+    "word": "nine",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'nine'.",
+    "example_cn": "这是一个包含“nine”的简单例句。"
+  },
+  {
+    "word": "ten",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'ten'.",
+    "example_cn": "这是一个包含“ten”的简单例句。"
+  },
+  {
+    "word": "first",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'first'.",
+    "example_cn": "这是一个包含“first”的简单例句。"
+  },
+  {
+    "word": "second",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'second'.",
+    "example_cn": "这是一个包含“second”的简单例句。"
+  },
+  {
+    "word": "third",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'third'.",
+    "example_cn": "这是一个包含“third”的简单例句。"
+  },
+  {
+    "word": "be",
+    "phonetic": "",
+    "meaning": "是",
+    "example": "This is a simple example with 'be'.",
+    "example_cn": "这是一个包含“be”的简单例句。"
+  },
+  {
+    "word": "am",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'am'.",
+    "example_cn": "这是一个包含“am”的简单例句。"
+  },
+  {
+    "word": "is",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'is'.",
+    "example_cn": "这是一个包含“is”的简单例句。"
+  },
+  {
+    "word": "are",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'are'.",
+    "example_cn": "这是一个包含“are”的简单例句。"
+  },
+  {
+    "word": "was",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'was'.",
+    "example_cn": "这是一个包含“was”的简单例句。"
+  },
+  {
+    "word": "were",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'were'.",
+    "example_cn": "这是一个包含“were”的简单例句。"
+  },
+  {
+    "word": "been",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'been'.",
+    "example_cn": "这是一个包含“been”的简单例句。"
+  },
+  {
+    "word": "being",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'being'.",
+    "example_cn": "这是一个包含“being”的简单例句。"
+  },
+  {
+    "word": "do",
+    "phonetic": "",
+    "meaning": "做",
+    "example": "This is a simple example with 'do'.",
+    "example_cn": "这是一个包含“do”的简单例句。"
+  },
+  {
+    "word": "does",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'does'.",
+    "example_cn": "这是一个包含“does”的简单例句。"
+  },
+  {
+    "word": "did",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'did'.",
+    "example_cn": "这是一个包含“did”的简单例句。"
+  },
+  {
+    "word": "done",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'done'.",
+    "example_cn": "这是一个包含“done”的简单例句。"
+  },
+  {
+    "word": "doing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'doing'.",
+    "example_cn": "这是一个包含“doing”的简单例句。"
+  },
+  {
+    "word": "have",
+    "phonetic": "",
+    "meaning": "有",
+    "example": "This is a simple example with 'have'.",
+    "example_cn": "这是一个包含“have”的简单例句。"
+  },
+  {
+    "word": "has",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'has'.",
+    "example_cn": "这是一个包含“has”的简单例句。"
+  },
+  {
+    "word": "had",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'had'.",
+    "example_cn": "这是一个包含“had”的简单例句。"
+  },
+  {
+    "word": "having",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'having'.",
+    "example_cn": "这是一个包含“having”的简单例句。"
+  },
+  {
+    "word": "can",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'can'.",
+    "example_cn": "这是一个包含“can”的简单例句。"
+  },
+  {
+    "word": "could",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'could'.",
+    "example_cn": "这是一个包含“could”的简单例句。"
+  },
+  {
+    "word": "may",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'may'.",
+    "example_cn": "这是一个包含“may”的简单例句。"
+  },
+  {
+    "word": "might",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'might'.",
+    "example_cn": "这是一个包含“might”的简单例句。"
+  },
+  {
+    "word": "will",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'will'.",
+    "example_cn": "这是一个包含“will”的简单例句。"
+  },
+  {
+    "word": "would",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'would'.",
+    "example_cn": "这是一个包含“would”的简单例句。"
+  },
+  {
+    "word": "shall",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'shall'.",
+    "example_cn": "这是一个包含“shall”的简单例句。"
+  },
+  {
+    "word": "should",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'should'.",
+    "example_cn": "这是一个包含“should”的简单例句。"
+  },
+  {
+    "word": "must",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'must'.",
+    "example_cn": "这是一个包含“must”的简单例句。"
+  },
+  {
+    "word": "go",
+    "phonetic": "",
+    "meaning": "去",
+    "example": "This is a simple example with 'go'.",
+    "example_cn": "这是一个包含“go”的简单例句。"
+  },
+  {
+    "word": "come",
+    "phonetic": "",
+    "meaning": "来",
+    "example": "This is a simple example with 'come'.",
+    "example_cn": "这是一个包含“come”的简单例句。"
+  },
+  {
+    "word": "get",
+    "phonetic": "",
+    "meaning": "得到",
+    "example": "This is a simple example with 'get'.",
+    "example_cn": "这是一个包含“get”的简单例句。"
+  },
+  {
+    "word": "make",
+    "phonetic": "",
+    "meaning": "制作；使",
+    "example": "This is a simple example with 'make'.",
+    "example_cn": "这是一个包含“make”的简单例句。"
+  },
+  {
+    "word": "take",
+    "phonetic": "",
+    "meaning": "拿；带",
+    "example": "This is a simple example with 'take'.",
+    "example_cn": "这是一个包含“take”的简单例句。"
+  },
+  {
+    "word": "give",
+    "phonetic": "",
+    "meaning": "给",
+    "example": "This is a simple example with 'give'.",
+    "example_cn": "这是一个包含“give”的简单例句。"
+  },
+  {
+    "word": "see",
+    "phonetic": "",
+    "meaning": "看见",
+    "example": "This is a simple example with 'see'.",
+    "example_cn": "这是一个包含“see”的简单例句。"
+  },
+  {
+    "word": "know",
+    "phonetic": "",
+    "meaning": "知道",
+    "example": "This is a simple example with 'know'.",
+    "example_cn": "这是一个包含“know”的简单例句。"
+  },
+  {
+    "word": "think",
+    "phonetic": "",
+    "meaning": "思考",
+    "example": "This is a simple example with 'think'.",
+    "example_cn": "这是一个包含“think”的简单例句。"
+  },
+  {
+    "word": "say",
+    "phonetic": "",
+    "meaning": "说",
+    "example": "This is a simple example with 'say'.",
+    "example_cn": "这是一个包含“say”的简单例句。"
+  },
+  {
+    "word": "find",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'find'.",
+    "example_cn": "这是一个包含“find”的简单例句。"
+  },
+  {
+    "word": "work",
+    "phonetic": "",
+    "meaning": "工作",
+    "example": "This is a simple example with 'work'.",
+    "example_cn": "这是一个包含“work”的简单例句。"
+  },
+  {
+    "word": "call",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'call'.",
+    "example_cn": "这是一个包含“call”的简单例句。"
+  },
+  {
+    "word": "try",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'try'.",
+    "example_cn": "这是一个包含“try”的简单例句。"
+  },
+  {
+    "word": "ask",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'ask'.",
+    "example_cn": "这是一个包含“ask”的简单例句。"
+  },
+  {
+    "word": "need",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'need'.",
+    "example_cn": "这是一个包含“need”的简单例句。"
+  },
+  {
+    "word": "feel",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'feel'.",
+    "example_cn": "这是一个包含“feel”的简单例句。"
+  },
+  {
+    "word": "become",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'become'.",
+    "example_cn": "这是一个包含“become”的简单例句。"
+  },
+  {
+    "word": "leave",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'leave'.",
+    "example_cn": "这是一个包含“leave”的简单例句。"
+  },
+  {
+    "word": "put",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'put'.",
+    "example_cn": "这是一个包含“put”的简单例句。"
+  },
+  {
+    "word": "keep",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'keep'.",
+    "example_cn": "这是一个包含“keep”的简单例句。"
+  },
+  {
+    "word": "let",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'let'.",
+    "example_cn": "这是一个包含“let”的简单例句。"
+  },
+  {
+    "word": "begin",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'begin'.",
+    "example_cn": "这是一个包含“begin”的简单例句。"
+  },
+  {
+    "word": "seem",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'seem'.",
+    "example_cn": "这是一个包含“seem”的简单例句。"
+  },
+  {
+    "word": "help",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'help'.",
+    "example_cn": "这是一个包含“help”的简单例句。"
+  },
+  {
+    "word": "talk",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'talk'.",
+    "example_cn": "这是一个包含“talk”的简单例句。"
+  },
+  {
+    "word": "turn",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'turn'.",
+    "example_cn": "这是一个包含“turn”的简单例句。"
+  },
+  {
+    "word": "start",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'start'.",
+    "example_cn": "这是一个包含“start”的简单例句。"
+  },
+  {
+    "word": "show",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'show'.",
+    "example_cn": "这是一个包含“show”的简单例句。"
+  },
+  {
+    "word": "hear",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hear'.",
+    "example_cn": "这是一个包含“hear”的简单例句。"
+  },
+  {
+    "word": "play",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'play'.",
+    "example_cn": "这是一个包含“play”的简单例句。"
+  },
+  {
+    "word": "run",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'run'.",
+    "example_cn": "这是一个包含“run”的简单例句。"
+  },
+  {
+    "word": "move",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'move'.",
+    "example_cn": "这是一个包含“move”的简单例句。"
+  },
+  {
+    "word": "live",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'live'.",
+    "example_cn": "这是一个包含“live”的简单例句。"
+  },
+  {
+    "word": "believe",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'believe'.",
+    "example_cn": "这是一个包含“believe”的简单例句。"
+  },
+  {
+    "word": "hold",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hold'.",
+    "example_cn": "这是一个包含“hold”的简单例句。"
+  },
+  {
+    "word": "bring",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bring'.",
+    "example_cn": "这是一个包含“bring”的简单例句。"
+  },
+  {
+    "word": "happen",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'happen'.",
+    "example_cn": "这是一个包含“happen”的简单例句。"
+  },
+  {
+    "word": "write",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'write'.",
+    "example_cn": "这是一个包含“write”的简单例句。"
+  },
+  {
+    "word": "provide",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'provide'.",
+    "example_cn": "这是一个包含“provide”的简单例句。"
+  },
+  {
+    "word": "sit",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sit'.",
+    "example_cn": "这是一个包含“sit”的简单例句。"
+  },
+  {
+    "word": "stand",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'stand'.",
+    "example_cn": "这是一个包含“stand”的简单例句。"
+  },
+  {
+    "word": "lose",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'lose'.",
+    "example_cn": "这是一个包含“lose”的简单例句。"
+  },
+  {
+    "word": "pay",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'pay'.",
+    "example_cn": "这是一个包含“pay”的简单例句。"
+  },
+  {
+    "word": "meet",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'meet'.",
+    "example_cn": "这是一个包含“meet”的简单例句。"
+  },
+  {
+    "word": "include",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'include'.",
+    "example_cn": "这是一个包含“include”的简单例句。"
+  },
+  {
+    "word": "continue",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'continue'.",
+    "example_cn": "这是一个包含“continue”的简单例句。"
+  },
+  {
+    "word": "set",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'set'.",
+    "example_cn": "这是一个包含“set”的简单例句。"
+  },
+  {
+    "word": "learn",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'learn'.",
+    "example_cn": "这是一个包含“learn”的简单例句。"
+  },
+  {
+    "word": "change",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'change'.",
+    "example_cn": "这是一个包含“change”的简单例句。"
+  },
+  {
+    "word": "lead",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'lead'.",
+    "example_cn": "这是一个包含“lead”的简单例句。"
+  },
+  {
+    "word": "understand",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'understand'.",
+    "example_cn": "这是一个包含“understand”的简单例句。"
+  },
+  {
+    "word": "watch",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'watch'.",
+    "example_cn": "这是一个包含“watch”的简单例句。"
+  },
+  {
+    "word": "follow",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'follow'.",
+    "example_cn": "这是一个包含“follow”的简单例句。"
+  },
+  {
+    "word": "stop",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'stop'.",
+    "example_cn": "这是一个包含“stop”的简单例句。"
+  },
+  {
+    "word": "create",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'create'.",
+    "example_cn": "这是一个包含“create”的简单例句。"
+  },
+  {
+    "word": "speak",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'speak'.",
+    "example_cn": "这是一个包含“speak”的简单例句。"
+  },
+  {
+    "word": "read",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'read'.",
+    "example_cn": "这是一个包含“read”的简单例句。"
+  },
+  {
+    "word": "send",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'send'.",
+    "example_cn": "这是一个包含“send”的简单例句。"
+  },
+  {
+    "word": "spend",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'spend'.",
+    "example_cn": "这是一个包含“spend”的简单例句。"
+  },
+  {
+    "word": "grow",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'grow'.",
+    "example_cn": "这是一个包含“grow”的简单例句。"
+  },
+  {
+    "word": "open",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'open'.",
+    "example_cn": "这是一个包含“open”的简单例句。"
+  },
+  {
+    "word": "walk",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'walk'.",
+    "example_cn": "这是一个包含“walk”的简单例句。"
+  },
+  {
+    "word": "win",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'win'.",
+    "example_cn": "这是一个包含“win”的简单例句。"
+  },
+  {
+    "word": "offer",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'offer'.",
+    "example_cn": "这是一个包含“offer”的简单例句。"
+  },
+  {
+    "word": "remember",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'remember'.",
+    "example_cn": "这是一个包含“remember”的简单例句。"
+  },
+  {
+    "word": "love",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'love'.",
+    "example_cn": "这是一个包含“love”的简单例句。"
+  },
+  {
+    "word": "consider",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'consider'.",
+    "example_cn": "这是一个包含“consider”的简单例句。"
+  },
+  {
+    "word": "appear",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'appear'.",
+    "example_cn": "这是一个包含“appear”的简单例句。"
+  },
+  {
+    "word": "buy",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'buy'.",
+    "example_cn": "这是一个包含“buy”的简单例句。"
+  },
+  {
+    "word": "wait",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wait'.",
+    "example_cn": "这是一个包含“wait”的简单例句。"
+  },
+  {
+    "word": "serve",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'serve'.",
+    "example_cn": "这是一个包含“serve”的简单例句。"
+  },
+  {
+    "word": "die",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'die'.",
+    "example_cn": "这是一个包含“die”的简单例句。"
+  },
+  {
+    "word": "man",
+    "phonetic": "",
+    "meaning": "男人",
+    "example": "This is a simple example with 'man'.",
+    "example_cn": "这是一个包含“man”的简单例句。"
+  },
+  {
+    "word": "woman",
+    "phonetic": "",
+    "meaning": "女人",
+    "example": "This is a simple example with 'woman'.",
+    "example_cn": "这是一个包含“woman”的简单例句。"
+  },
+  {
+    "word": "child",
+    "phonetic": "",
+    "meaning": "孩子",
+    "example": "This is a simple example with 'child'.",
+    "example_cn": "这是一个包含“child”的简单例句。"
+  },
+  {
+    "word": "children",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'children'.",
+    "example_cn": "这是一个包含“children”的简单例句。"
+  },
+  {
+    "word": "boy",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'boy'.",
+    "example_cn": "这是一个包含“boy”的简单例句。"
+  },
+  {
+    "word": "girl",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'girl'.",
+    "example_cn": "这是一个包含“girl”的简单例句。"
+  },
+  {
+    "word": "person",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'person'.",
+    "example_cn": "这是一个包含“person”的简单例句。"
+  },
+  {
+    "word": "people",
+    "phonetic": "",
+    "meaning": "人们",
+    "example": "This is a simple example with 'people'.",
+    "example_cn": "这是一个包含“people”的简单例句。"
+  },
+  {
+    "word": "friend",
+    "phonetic": "",
+    "meaning": "朋友",
+    "example": "This is a simple example with 'friend'.",
+    "example_cn": "这是一个包含“friend”的简单例句。"
+  },
+  {
+    "word": "family",
+    "phonetic": "",
+    "meaning": "家庭",
+    "example": "This is a simple example with 'family'.",
+    "example_cn": "这是一个包含“family”的简单例句。"
+  },
+  {
+    "word": "mother",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'mother'.",
+    "example_cn": "这是一个包含“mother”的简单例句。"
+  },
+  {
+    "word": "father",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'father'.",
+    "example_cn": "这是一个包含“father”的简单例句。"
+  },
+  {
+    "word": "parent",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'parent'.",
+    "example_cn": "这是一个包含“parent”的简单例句。"
+  },
+  {
+    "word": "son",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'son'.",
+    "example_cn": "这是一个包含“son”的简单例句。"
+  },
+  {
+    "word": "daughter",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'daughter'.",
+    "example_cn": "这是一个包含“daughter”的简单例句。"
+  },
+  {
+    "word": "brother",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'brother'.",
+    "example_cn": "这是一个包含“brother”的简单例句。"
+  },
+  {
+    "word": "sister",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sister'.",
+    "example_cn": "这是一个包含“sister”的简单例句。"
+  },
+  {
+    "word": "husband",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'husband'.",
+    "example_cn": "这是一个包含“husband”的简单例句。"
+  },
+  {
+    "word": "wife",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wife'.",
+    "example_cn": "这是一个包含“wife”的简单例句。"
+  },
+  {
+    "word": "baby",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'baby'.",
+    "example_cn": "这是一个包含“baby”的简单例句。"
+  },
+  {
+    "word": "student",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'student'.",
+    "example_cn": "这是一个包含“student”的简单例句。"
+  },
+  {
+    "word": "teacher",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'teacher'.",
+    "example_cn": "这是一个包含“teacher”的简单例句。"
+  },
+  {
+    "word": "worker",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'worker'.",
+    "example_cn": "这是一个包含“worker”的简单例句。"
+  },
+  {
+    "word": "doctor",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'doctor'.",
+    "example_cn": "这是一个包含“doctor”的简单例句。"
+  },
+  {
+    "word": "nurse",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'nurse'.",
+    "example_cn": "这是一个包含“nurse”的简单例句。"
+  },
+  {
+    "word": "driver",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'driver'.",
+    "example_cn": "这是一个包含“driver”的简单例句。"
+  },
+  {
+    "word": "farmer",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'farmer'.",
+    "example_cn": "这是一个包含“farmer”的简单例句。"
+  },
+  {
+    "word": "cook",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cook'.",
+    "example_cn": "这是一个包含“cook”的简单例句。"
+  },
+  {
+    "word": "waiter",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'waiter'.",
+    "example_cn": "这是一个包含“waiter”的简单例句。"
+  },
+  {
+    "word": "police",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'police'.",
+    "example_cn": "这是一个包含“police”的简单例句。"
+  },
+  {
+    "word": "soldier",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'soldier'.",
+    "example_cn": "这是一个包含“soldier”的简单例句。"
+  },
+  {
+    "word": "artist",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'artist'.",
+    "example_cn": "这是一个包含“artist”的简单例句。"
+  },
+  {
+    "word": "musician",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'musician'.",
+    "example_cn": "这是一个包含“musician”的简单例句。"
+  },
+  {
+    "word": "singer",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'singer'.",
+    "example_cn": "这是一个包含“singer”的简单例句。"
+  },
+  {
+    "word": "actor",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'actor'.",
+    "example_cn": "这是一个包含“actor”的简单例句。"
+  },
+  {
+    "word": "writer",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'writer'.",
+    "example_cn": "这是一个包含“writer”的简单例句。"
+  },
+  {
+    "word": "reader",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'reader'.",
+    "example_cn": "这是一个包含“reader”的简单例句。"
+  },
+  {
+    "word": "player",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'player'.",
+    "example_cn": "这是一个包含“player”的简单例句。"
+  },
+  {
+    "word": "customer",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'customer'.",
+    "example_cn": "这是一个包含“customer”的简单例句。"
+  },
+  {
+    "word": "guest",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'guest'.",
+    "example_cn": "这是一个包含“guest”的简单例句。"
+  },
+  {
+    "word": "neighbor",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'neighbor'.",
+    "example_cn": "这是一个包含“neighbor”的简单例句。"
+  },
+  {
+    "word": "boss",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'boss'.",
+    "example_cn": "这是一个包含“boss”的简单例句。"
+  },
+  {
+    "word": "team",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'team'.",
+    "example_cn": "这是一个包含“team”的简单例句。"
+  },
+  {
+    "word": "class",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'class'.",
+    "example_cn": "这是一个包含“class”的简单例句。"
+  },
+  {
+    "word": "group",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'group'.",
+    "example_cn": "这是一个包含“group”的简单例句。"
+  },
+  {
+    "word": "company",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'company'.",
+    "example_cn": "这是一个包含“company”的简单例句。"
+  },
+  {
+    "word": "school",
+    "phonetic": "",
+    "meaning": "学校",
+    "example": "This is a simple example with 'school'.",
+    "example_cn": "这是一个包含“school”的简单例句。"
+  },
+  {
+    "word": "office",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'office'.",
+    "example_cn": "这是一个包含“office”的简单例句。"
+  },
+  {
+    "word": "store",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'store'.",
+    "example_cn": "这是一个包含“store”的简单例句。"
+  },
+  {
+    "word": "market",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'market'.",
+    "example_cn": "这是一个包含“market”的简单例句。"
+  },
+  {
+    "word": "bank",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bank'.",
+    "example_cn": "这是一个包含“bank”的简单例句。"
+  },
+  {
+    "word": "hospital",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hospital'.",
+    "example_cn": "这是一个包含“hospital”的简单例句。"
+  },
+  {
+    "word": "hotel",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hotel'.",
+    "example_cn": "这是一个包含“hotel”的简单例句。"
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'restaurant'.",
+    "example_cn": "这是一个包含“restaurant”的简单例句。"
+  },
+  {
+    "word": "city",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'city'.",
+    "example_cn": "这是一个包含“city”的简单例句。"
+  },
+  {
+    "word": "town",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'town'.",
+    "example_cn": "这是一个包含“town”的简单例句。"
+  },
+  {
+    "word": "village",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'village'.",
+    "example_cn": "这是一个包含“village”的简单例句。"
+  },
+  {
+    "word": "country",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'country'.",
+    "example_cn": "这是一个包含“country”的简单例句。"
+  },
+  {
+    "word": "world",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'world'.",
+    "example_cn": "这是一个包含“world”的简单例句。"
+  },
+  {
+    "word": "home",
+    "phonetic": "",
+    "meaning": "家",
+    "example": "This is a simple example with 'home'.",
+    "example_cn": "这是一个包含“home”的简单例句。"
+  },
+  {
+    "word": "house",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'house'.",
+    "example_cn": "这是一个包含“house”的简单例句。"
+  },
+  {
+    "word": "room",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'room'.",
+    "example_cn": "这是一个包含“room”的简单例句。"
+  },
+  {
+    "word": "door",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'door'.",
+    "example_cn": "这是一个包含“door”的简单例句。"
+  },
+  {
+    "word": "window",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'window'.",
+    "example_cn": "这是一个包含“window”的简单例句。"
+  },
+  {
+    "word": "table",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'table'.",
+    "example_cn": "这是一个包含“table”的简单例句。"
+  },
+  {
+    "word": "chair",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'chair'.",
+    "example_cn": "这是一个包含“chair”的简单例句。"
+  },
+  {
+    "word": "bed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bed'.",
+    "example_cn": "这是一个包含“bed”的简单例句。"
+  },
+  {
+    "word": "kitchen",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'kitchen'.",
+    "example_cn": "这是一个包含“kitchen”的简单例句。"
+  },
+  {
+    "word": "bathroom",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bathroom'.",
+    "example_cn": "这是一个包含“bathroom”的简单例句。"
+  },
+  {
+    "word": "garden",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'garden'.",
+    "example_cn": "这是一个包含“garden”的简单例句。"
+  },
+  {
+    "word": "street",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'street'.",
+    "example_cn": "这是一个包含“street”的简单例句。"
+  },
+  {
+    "word": "road",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'road'.",
+    "example_cn": "这是一个包含“road”的简单例句。"
+  },
+  {
+    "word": "station",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'station'.",
+    "example_cn": "这是一个包含“station”的简单例句。"
+  },
+  {
+    "word": "airport",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'airport'.",
+    "example_cn": "这是一个包含“airport”的简单例句。"
+  },
+  {
+    "word": "park",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'park'.",
+    "example_cn": "这是一个包含“park”的简单例句。"
+  },
+  {
+    "word": "library",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'library'.",
+    "example_cn": "这是一个包含“library”的简单例句。"
+  },
+  {
+    "word": "museum",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'museum'.",
+    "example_cn": "这是一个包含“museum”的简单例句。"
+  },
+  {
+    "word": "beach",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'beach'.",
+    "example_cn": "这是一个包含“beach”的简单例句。"
+  },
+  {
+    "word": "river",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'river'.",
+    "example_cn": "这是一个包含“river”的简单例句。"
+  },
+  {
+    "word": "mountain",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'mountain'.",
+    "example_cn": "这是一个包含“mountain”的简单例句。"
+  },
+  {
+    "word": "sea",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sea'.",
+    "example_cn": "这是一个包含“sea”的简单例句。"
+  },
+  {
+    "word": "lake",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'lake'.",
+    "example_cn": "这是一个包含“lake”的简单例句。"
+  },
+  {
+    "word": "sky",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sky'.",
+    "example_cn": "这是一个包含“sky”的简单例句。"
+  },
+  {
+    "word": "sun",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sun'.",
+    "example_cn": "这是一个包含“sun”的简单例句。"
+  },
+  {
+    "word": "moon",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'moon'.",
+    "example_cn": "这是一个包含“moon”的简单例句。"
+  },
+  {
+    "word": "star",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'star'.",
+    "example_cn": "这是一个包含“star”的简单例句。"
+  },
+  {
+    "word": "rain",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'rain'.",
+    "example_cn": "这是一个包含“rain”的简单例句。"
+  },
+  {
+    "word": "snow",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'snow'.",
+    "example_cn": "这是一个包含“snow”的简单例句。"
+  },
+  {
+    "word": "wind",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wind'.",
+    "example_cn": "这是一个包含“wind”的简单例句。"
+  },
+  {
+    "word": "fire",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fire'.",
+    "example_cn": "这是一个包含“fire”的简单例句。"
+  },
+  {
+    "word": "water",
+    "phonetic": "",
+    "meaning": "水",
+    "example": "This is a simple example with 'water'.",
+    "example_cn": "这是一个包含“water”的简单例句。"
+  },
+  {
+    "word": "food",
+    "phonetic": "",
+    "meaning": "食物",
+    "example": "This is a simple example with 'food'.",
+    "example_cn": "这是一个包含“food”的简单例句。"
+  },
+  {
+    "word": "bread",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bread'.",
+    "example_cn": "这是一个包含“bread”的简单例句。"
+  },
+  {
+    "word": "rice",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'rice'.",
+    "example_cn": "这是一个包含“rice”的简单例句。"
+  },
+  {
+    "word": "meat",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'meat'.",
+    "example_cn": "这是一个包含“meat”的简单例句。"
+  },
+  {
+    "word": "fish",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fish'.",
+    "example_cn": "这是一个包含“fish”的简单例句。"
+  },
+  {
+    "word": "egg",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'egg'.",
+    "example_cn": "这是一个包含“egg”的简单例句。"
+  },
+  {
+    "word": "milk",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'milk'.",
+    "example_cn": "这是一个包含“milk”的简单例句。"
+  },
+  {
+    "word": "coffee",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'coffee'.",
+    "example_cn": "这是一个包含“coffee”的简单例句。"
+  },
+  {
+    "word": "tea",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'tea'.",
+    "example_cn": "这是一个包含“tea”的简单例句。"
+  },
+  {
+    "word": "fruit",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fruit'.",
+    "example_cn": "这是一个包含“fruit”的简单例句。"
+  },
+  {
+    "word": "apple",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'apple'.",
+    "example_cn": "这是一个包含“apple”的简单例句。"
+  },
+  {
+    "word": "banana",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'banana'.",
+    "example_cn": "这是一个包含“banana”的简单例句。"
+  },
+  {
+    "word": "orange",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'orange'.",
+    "example_cn": "这是一个包含“orange”的简单例句。"
+  },
+  {
+    "word": "grape",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'grape'.",
+    "example_cn": "这是一个包含“grape”的简单例句。"
+  },
+  {
+    "word": "lemon",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'lemon'.",
+    "example_cn": "这是一个包含“lemon”的简单例句。"
+  },
+  {
+    "word": "sugar",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sugar'.",
+    "example_cn": "这是一个包含“sugar”的简单例句。"
+  },
+  {
+    "word": "salt",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'salt'.",
+    "example_cn": "这是一个包含“salt”的简单例句。"
+  },
+  {
+    "word": "pepper",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'pepper'.",
+    "example_cn": "这是一个包含“pepper”的简单例句。"
+  },
+  {
+    "word": "time",
+    "phonetic": "",
+    "meaning": "时间",
+    "example": "This is a simple example with 'time'.",
+    "example_cn": "这是一个包含“time”的简单例句。"
+  },
+  {
+    "word": "day",
+    "phonetic": "",
+    "meaning": "天",
+    "example": "This is a simple example with 'day'.",
+    "example_cn": "这是一个包含“day”的简单例句。"
+  },
+  {
+    "word": "week",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'week'.",
+    "example_cn": "这是一个包含“week”的简单例句。"
+  },
+  {
+    "word": "month",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'month'.",
+    "example_cn": "这是一个包含“month”的简单例句。"
+  },
+  {
+    "word": "year",
+    "phonetic": "",
+    "meaning": "年",
+    "example": "This is a simple example with 'year'.",
+    "example_cn": "这是一个包含“year”的简单例句。"
+  },
+  {
+    "word": "today",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'today'.",
+    "example_cn": "这是一个包含“today”的简单例句。"
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'tomorrow'.",
+    "example_cn": "这是一个包含“tomorrow”的简单例句。"
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'yesterday'.",
+    "example_cn": "这是一个包含“yesterday”的简单例句。"
+  },
+  {
+    "word": "morning",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'morning'.",
+    "example_cn": "这是一个包含“morning”的简单例句。"
+  },
+  {
+    "word": "afternoon",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'afternoon'.",
+    "example_cn": "这是一个包含“afternoon”的简单例句。"
+  },
+  {
+    "word": "evening",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'evening'.",
+    "example_cn": "这是一个包含“evening”的简单例句。"
+  },
+  {
+    "word": "night",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'night'.",
+    "example_cn": "这是一个包含“night”的简单例句。"
+  },
+  {
+    "word": "hour",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hour'.",
+    "example_cn": "这是一个包含“hour”的简单例句。"
+  },
+  {
+    "word": "minute",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'minute'.",
+    "example_cn": "这是一个包含“minute”的简单例句。"
+  },
+  {
+    "word": "now",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'now'.",
+    "example_cn": "这是一个包含“now”的简单例句。"
+  },
+  {
+    "word": "then",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'then'.",
+    "example_cn": "这是一个包含“then”的简单例句。"
+  },
+  {
+    "word": "before",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'before'.",
+    "example_cn": "这是一个包含“before”的简单例句。"
+  },
+  {
+    "word": "after",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'after'.",
+    "example_cn": "这是一个包含“after”的简单例句。"
+  },
+  {
+    "word": "early",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'early'.",
+    "example_cn": "这是一个包含“early”的简单例句。"
+  },
+  {
+    "word": "late",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'late'.",
+    "example_cn": "这是一个包含“late”的简单例句。"
+  },
+  {
+    "word": "soon",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'soon'.",
+    "example_cn": "这是一个包含“soon”的简单例句。"
+  },
+  {
+    "word": "always",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'always'.",
+    "example_cn": "这是一个包含“always”的简单例句。"
+  },
+  {
+    "word": "never",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'never'.",
+    "example_cn": "这是一个包含“never”的简单例句。"
+  },
+  {
+    "word": "sometimes",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sometimes'.",
+    "example_cn": "这是一个包含“sometimes”的简单例句。"
+  },
+  {
+    "word": "often",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'often'.",
+    "example_cn": "这是一个包含“often”的简单例句。"
+  },
+  {
+    "word": "again",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'again'.",
+    "example_cn": "这是一个包含“again”的简单例句。"
+  },
+  {
+    "word": "already",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'already'.",
+    "example_cn": "这是一个包含“already”的简单例句。"
+  },
+  {
+    "word": "maybe",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'maybe'.",
+    "example_cn": "这是一个包含“maybe”的简单例句。"
+  },
+  {
+    "word": "really",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'really'.",
+    "example_cn": "这是一个包含“really”的简单例句。"
+  },
+  {
+    "word": "just",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'just'.",
+    "example_cn": "这是一个包含“just”的简单例句。"
+  },
+  {
+    "word": "still",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'still'.",
+    "example_cn": "这是一个包含“still”的简单例句。"
+  },
+  {
+    "word": "away",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'away'.",
+    "example_cn": "这是一个包含“away”的简单例句。"
+  },
+  {
+    "word": "here",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'here'.",
+    "example_cn": "这是一个包含“here”的简单例句。"
+  },
+  {
+    "word": "there",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'there'.",
+    "example_cn": "这是一个包含“there”的简单例句。"
+  },
+  {
+    "word": "inside",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'inside'.",
+    "example_cn": "这是一个包含“inside”的简单例句。"
+  },
+  {
+    "word": "outside",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'outside'.",
+    "example_cn": "这是一个包含“outside”的简单例句。"
+  },
+  {
+    "word": "near",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'near'.",
+    "example_cn": "这是一个包含“near”的简单例句。"
+  },
+  {
+    "word": "far",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'far'.",
+    "example_cn": "这是一个包含“far”的简单例句。"
+  },
+  {
+    "word": "together",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'together'.",
+    "example_cn": "这是一个包含“together”的简单例句。"
+  },
+  {
+    "word": "alone",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'alone'.",
+    "example_cn": "这是一个包含“alone”的简单例句。"
+  },
+  {
+    "word": "good",
+    "phonetic": "",
+    "meaning": "好的",
+    "example": "This is a simple example with 'good'.",
+    "example_cn": "这是一个包含“good”的简单例句。"
+  },
+  {
+    "word": "bad",
+    "phonetic": "",
+    "meaning": "坏的",
+    "example": "This is a simple example with 'bad'.",
+    "example_cn": "这是一个包含“bad”的简单例句。"
+  },
+  {
+    "word": "big",
+    "phonetic": "",
+    "meaning": "大的",
+    "example": "This is a simple example with 'big'.",
+    "example_cn": "这是一个包含“big”的简单例句。"
+  },
+  {
+    "word": "small",
+    "phonetic": "",
+    "meaning": "小的",
+    "example": "This is a simple example with 'small'.",
+    "example_cn": "这是一个包含“small”的简单例句。"
+  },
+  {
+    "word": "long",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'long'.",
+    "example_cn": "这是一个包含“long”的简单例句。"
+  },
+  {
+    "word": "short",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'short'.",
+    "example_cn": "这是一个包含“short”的简单例句。"
+  },
+  {
+    "word": "high",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'high'.",
+    "example_cn": "这是一个包含“high”的简单例句。"
+  },
+  {
+    "word": "low",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'low'.",
+    "example_cn": "这是一个包含“low”的简单例句。"
+  },
+  {
+    "word": "old",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'old'.",
+    "example_cn": "这是一个包含“old”的简单例句。"
+  },
+  {
+    "word": "young",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'young'.",
+    "example_cn": "这是一个包含“young”的简单例句。"
+  },
+  {
+    "word": "new",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'new'.",
+    "example_cn": "这是一个包含“new”的简单例句。"
+  },
+  {
+    "word": "best",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'best'.",
+    "example_cn": "这是一个包含“best”的简单例句。"
+  },
+  {
+    "word": "better",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'better'.",
+    "example_cn": "这是一个包含“better”的简单例句。"
+  },
+  {
+    "word": "worst",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'worst'.",
+    "example_cn": "这是一个包含“worst”的简单例句。"
+  },
+  {
+    "word": "same",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'same'.",
+    "example_cn": "这是一个包含“same”的简单例句。"
+  },
+  {
+    "word": "different",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'different'.",
+    "example_cn": "这是一个包含“different”的简单例句。"
+  },
+  {
+    "word": "easy",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'easy'.",
+    "example_cn": "这是一个包含“easy”的简单例句。"
+  },
+  {
+    "word": "hard",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hard'.",
+    "example_cn": "这是一个包含“hard”的简单例句。"
+  },
+  {
+    "word": "strong",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'strong'.",
+    "example_cn": "这是一个包含“strong”的简单例句。"
+  },
+  {
+    "word": "weak",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'weak'.",
+    "example_cn": "这是一个包含“weak”的简单例句。"
+  },
+  {
+    "word": "hot",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hot'.",
+    "example_cn": "这是一个包含“hot”的简单例句。"
+  },
+  {
+    "word": "cold",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cold'.",
+    "example_cn": "这是一个包含“cold”的简单例句。"
+  },
+  {
+    "word": "warm",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'warm'.",
+    "example_cn": "这是一个包含“warm”的简单例句。"
+  },
+  {
+    "word": "cool",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cool'.",
+    "example_cn": "这是一个包含“cool”的简单例句。"
+  },
+  {
+    "word": "clean",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'clean'.",
+    "example_cn": "这是一个包含“clean”的简单例句。"
+  },
+  {
+    "word": "dirty",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dirty'.",
+    "example_cn": "这是一个包含“dirty”的简单例句。"
+  },
+  {
+    "word": "fast",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fast'.",
+    "example_cn": "这是一个包含“fast”的简单例句。"
+  },
+  {
+    "word": "slow",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'slow'.",
+    "example_cn": "这是一个包含“slow”的简单例句。"
+  },
+  {
+    "word": "happy",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'happy'.",
+    "example_cn": "这是一个包含“happy”的简单例句。"
+  },
+  {
+    "word": "sad",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sad'.",
+    "example_cn": "这是一个包含“sad”的简单例句。"
+  },
+  {
+    "word": "angry",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'angry'.",
+    "example_cn": "这是一个包含“angry”的简单例句。"
+  },
+  {
+    "word": "tired",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'tired'.",
+    "example_cn": "这是一个包含“tired”的简单例句。"
+  },
+  {
+    "word": "busy",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'busy'.",
+    "example_cn": "这是一个包含“busy”的简单例句。"
+  },
+  {
+    "word": "free",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'free'.",
+    "example_cn": "这是一个包含“free”的简单例句。"
+  },
+  {
+    "word": "safe",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'safe'.",
+    "example_cn": "这是一个包含“safe”的简单例句。"
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dangerous'.",
+    "example_cn": "这是一个包含“dangerous”的简单例句。"
+  },
+  {
+    "word": "rich",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'rich'.",
+    "example_cn": "这是一个包含“rich”的简单例句。"
+  },
+  {
+    "word": "poor",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'poor'.",
+    "example_cn": "这是一个包含“poor”的简单例句。"
+  },
+  {
+    "word": "full",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'full'.",
+    "example_cn": "这是一个包含“full”的简单例句。"
+  },
+  {
+    "word": "empty",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'empty'.",
+    "example_cn": "这是一个包含“empty”的简单例句。"
+  },
+  {
+    "word": "closed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'closed'.",
+    "example_cn": "这是一个包含“closed”的简单例句。"
+  },
+  {
+    "word": "right",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'right'.",
+    "example_cn": "这是一个包含“right”的简单例句。"
+  },
+  {
+    "word": "wrong",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wrong'.",
+    "example_cn": "这是一个包含“wrong”的简单例句。"
+  },
+  {
+    "word": "true",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'true'.",
+    "example_cn": "这是一个包含“true”的简单例句。"
+  },
+  {
+    "word": "false",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'false'.",
+    "example_cn": "这是一个包含“false”的简单例句。"
+  },
+  {
+    "word": "real",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'real'.",
+    "example_cn": "这是一个包含“real”的简单例句。"
+  },
+  {
+    "word": "sure",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sure'.",
+    "example_cn": "这是一个包含“sure”的简单例句。"
+  },
+  {
+    "word": "important",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'important'.",
+    "example_cn": "这是一个包含“important”的简单例句。"
+  },
+  {
+    "word": "possible",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'possible'.",
+    "example_cn": "这是一个包含“possible”的简单例句。"
+  },
+  {
+    "word": "ready",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'ready'.",
+    "example_cn": "这是一个包含“ready”的简单例句。"
+  },
+  {
+    "word": "clear",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'clear'.",
+    "example_cn": "这是一个包含“clear”的简单例句。"
+  },
+  {
+    "word": "kind",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'kind'.",
+    "example_cn": "这是一个包含“kind”的简单例句。"
+  },
+  {
+    "word": "nice",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'nice'.",
+    "example_cn": "这是一个包含“nice”的简单例句。"
+  },
+  {
+    "word": "brave",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'brave'.",
+    "example_cn": "这是一个包含“brave”的简单例句。"
+  },
+  {
+    "word": "smart",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'smart'.",
+    "example_cn": "这是一个包含“smart”的简单例句。"
+  },
+  {
+    "word": "clever",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'clever'.",
+    "example_cn": "这是一个包含“clever”的简单例句。"
+  },
+  {
+    "word": "quiet",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'quiet'.",
+    "example_cn": "这是一个包含“quiet”的简单例句。"
+  },
+  {
+    "word": "loud",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'loud'.",
+    "example_cn": "这是一个包含“loud”的简单例句。"
+  },
+  {
+    "word": "like",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'like'.",
+    "example_cn": "这是一个包含“like”的简单例句。"
+  },
+  {
+    "word": "hate",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hate'.",
+    "example_cn": "这是一个包含“hate”的简单例句。"
+  },
+  {
+    "word": "want",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'want'.",
+    "example_cn": "这是一个包含“want”的简单例句。"
+  },
+  {
+    "word": "plan",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'plan'.",
+    "example_cn": "这是一个包含“plan”的简单例句。"
+  },
+  {
+    "word": "hope",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hope'.",
+    "example_cn": "这是一个包含“hope”的简单例句。"
+  },
+  {
+    "word": "study",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'study'.",
+    "example_cn": "这是一个包含“study”的简单例句。"
+  },
+  {
+    "word": "teach",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'teach'.",
+    "example_cn": "这是一个包含“teach”的简单例句。"
+  },
+  {
+    "word": "listen",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'listen'.",
+    "example_cn": "这是一个包含“listen”的简单例句。"
+  },
+  {
+    "word": "tell",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'tell'.",
+    "example_cn": "这是一个包含“tell”的简单例句。"
+  },
+  {
+    "word": "answer",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'answer'.",
+    "example_cn": "这是一个包含“answer”的简单例句。"
+  },
+  {
+    "word": "explain",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'explain'.",
+    "example_cn": "这是一个包含“explain”的简单例句。"
+  },
+  {
+    "word": "build",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'build'.",
+    "example_cn": "这是一个包含“build”的简单例句。"
+  },
+  {
+    "word": "fix",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fix'.",
+    "example_cn": "这是一个包含“fix”的简单例句。"
+  },
+  {
+    "word": "wash",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wash'.",
+    "example_cn": "这是一个包含“wash”的简单例句。"
+  },
+  {
+    "word": "eat",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'eat'.",
+    "example_cn": "这是一个包含“eat”的简单例句。"
+  },
+  {
+    "word": "drink",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'drink'.",
+    "example_cn": "这是一个包含“drink”的简单例句。"
+  },
+  {
+    "word": "sleep",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sleep'.",
+    "example_cn": "这是一个包含“sleep”的简单例句。"
+  },
+  {
+    "word": "wake",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wake'.",
+    "example_cn": "这是一个包含“wake”的简单例句。"
+  },
+  {
+    "word": "rest",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'rest'.",
+    "example_cn": "这是一个包含“rest”的简单例句。"
+  },
+  {
+    "word": "draw",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'draw'.",
+    "example_cn": "这是一个包含“draw”的简单例句。"
+  },
+  {
+    "word": "sing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sing'.",
+    "example_cn": "这是一个包含“sing”的简单例句。"
+  },
+  {
+    "word": "dance",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dance'.",
+    "example_cn": "这是一个包含“dance”的简单例句。"
+  },
+  {
+    "word": "laugh",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'laugh'.",
+    "example_cn": "这是一个包含“laugh”的简单例句。"
+  },
+  {
+    "word": "smile",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'smile'.",
+    "example_cn": "这是一个包含“smile”的简单例句。"
+  },
+  {
+    "word": "cry",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cry'.",
+    "example_cn": "这是一个包含“cry”的简单例句。"
+  },
+  {
+    "word": "forget",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'forget'.",
+    "example_cn": "这是一个包含“forget”的简单例句。"
+  },
+  {
+    "word": "choose",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'choose'.",
+    "example_cn": "这是一个包含“choose”的简单例句。"
+  },
+  {
+    "word": "decide",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'decide'.",
+    "example_cn": "这是一个包含“decide”的简单例句。"
+  },
+  {
+    "word": "share",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'share'.",
+    "example_cn": "这是一个包含“share”的简单例句。"
+  },
+  {
+    "word": "sell",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sell'.",
+    "example_cn": "这是一个包含“sell”的简单例句。"
+  },
+  {
+    "word": "save",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'save'.",
+    "example_cn": "这是一个包含“save”的简单例句。"
+  },
+  {
+    "word": "receive",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'receive'.",
+    "example_cn": "这是一个包含“receive”的简单例句。"
+  },
+  {
+    "word": "carry",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'carry'.",
+    "example_cn": "这是一个包含“carry”的简单例句。"
+  },
+  {
+    "word": "wear",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wear'.",
+    "example_cn": "这是一个包含“wear”的简单例句。"
+  },
+  {
+    "word": "use",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'use'.",
+    "example_cn": "这是一个包含“use”的简单例句。"
+  },
+  {
+    "word": "finish",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'finish'.",
+    "example_cn": "这是一个包含“finish”的简单例句。"
+  },
+  {
+    "word": "stay",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'stay'.",
+    "example_cn": "这是一个包含“stay”的简单例句。"
+  },
+  {
+    "word": "arrive",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'arrive'.",
+    "example_cn": "这是一个包含“arrive”的简单例句。"
+  },
+  {
+    "word": "return",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'return'.",
+    "example_cn": "这是一个包含“return”的简单例句。"
+  },
+  {
+    "word": "and",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'and'.",
+    "example_cn": "这是一个包含“and”的简单例句。"
+  },
+  {
+    "word": "or",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'or'.",
+    "example_cn": "这是一个包含“or”的简单例句。"
+  },
+  {
+    "word": "but",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'but'.",
+    "example_cn": "这是一个包含“but”的简单例句。"
+  },
+  {
+    "word": "so",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'so'.",
+    "example_cn": "这是一个包含“so”的简单例句。"
+  },
+  {
+    "word": "because",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'because'.",
+    "example_cn": "这是一个包含“because”的简单例句。"
+  },
+  {
+    "word": "if",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'if'.",
+    "example_cn": "这是一个包含“if”的简单例句。"
+  },
+  {
+    "word": "while",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'while'.",
+    "example_cn": "这是一个包含“while”的简单例句。"
+  },
+  {
+    "word": "although",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'although'.",
+    "example_cn": "这是一个包含“although”的简单例句。"
+  },
+  {
+    "word": "though",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'though'.",
+    "example_cn": "这是一个包含“though”的简单例句。"
+  },
+  {
+    "word": "than",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'than'.",
+    "example_cn": "这是一个包含“than”的简单例句。"
+  },
+  {
+    "word": "as",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'as'.",
+    "example_cn": "这是一个包含“as”的简单例句。"
+  },
+  {
+    "word": "with",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'with'.",
+    "example_cn": "这是一个包含“with”的简单例句。"
+  },
+  {
+    "word": "without",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'without'.",
+    "example_cn": "这是一个包含“without”的简单例句。"
+  },
+  {
+    "word": "for",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'for'.",
+    "example_cn": "这是一个包含“for”的简单例句。"
+  },
+  {
+    "word": "from",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'from'.",
+    "example_cn": "这是一个包含“from”的简单例句。"
+  },
+  {
+    "word": "to",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'to'.",
+    "example_cn": "这是一个包含“to”的简单例句。"
+  },
+  {
+    "word": "into",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'into'.",
+    "example_cn": "这是一个包含“into”的简单例句。"
+  },
+  {
+    "word": "onto",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'onto'.",
+    "example_cn": "这是一个包含“onto”的简单例句。"
+  },
+  {
+    "word": "over",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'over'.",
+    "example_cn": "这是一个包含“over”的简单例句。"
+  },
+  {
+    "word": "under",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'under'.",
+    "example_cn": "这是一个包含“under”的简单例句。"
+  },
+  {
+    "word": "above",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'above'.",
+    "example_cn": "这是一个包含“above”的简单例句。"
+  },
+  {
+    "word": "below",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'below'.",
+    "example_cn": "这是一个包含“below”的简单例句。"
+  },
+  {
+    "word": "between",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'between'.",
+    "example_cn": "这是一个包含“between”的简单例句。"
+  },
+  {
+    "word": "around",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'around'.",
+    "example_cn": "这是一个包含“around”的简单例句。"
+  },
+  {
+    "word": "through",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'through'.",
+    "example_cn": "这是一个包含“through”的简单例句。"
+  },
+  {
+    "word": "across",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'across'.",
+    "example_cn": "这是一个包含“across”的简单例句。"
+  },
+  {
+    "word": "during",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'during'.",
+    "example_cn": "这是一个包含“during”的简单例句。"
+  },
+  {
+    "word": "until",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'until'.",
+    "example_cn": "这是一个包含“until”的简单例句。"
+  },
+  {
+    "word": "among",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'among'.",
+    "example_cn": "这是一个包含“among”的简单例句。"
+  },
+  {
+    "word": "against",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'against'.",
+    "example_cn": "这是一个包含“against”的简单例句。"
+  },
+  {
+    "word": "about",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'about'.",
+    "example_cn": "这是一个包含“about”的简单例句。"
+  },
+  {
+    "word": "by",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'by'.",
+    "example_cn": "这是一个包含“by”的简单例句。"
+  },
+  {
+    "word": "at",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'at'.",
+    "example_cn": "这是一个包含“at”的简单例句。"
+  },
+  {
+    "word": "on",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'on'.",
+    "example_cn": "这是一个包含“on”的简单例句。"
+  },
+  {
+    "word": "in",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'in'.",
+    "example_cn": "这是一个包含“in”的简单例句。"
+  },
+  {
+    "word": "out",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'out'.",
+    "example_cn": "这是一个包含“out”的简单例句。"
+  },
+  {
+    "word": "up",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'up'.",
+    "example_cn": "这是一个包含“up”的简单例句。"
+  },
+  {
+    "word": "down",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'down'.",
+    "example_cn": "这是一个包含“down”的简单例句。"
+  },
+  {
+    "word": "off",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'off'.",
+    "example_cn": "这是一个包含“off”的简单例句。"
+  },
+  {
+    "word": "beyond",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'beyond'.",
+    "example_cn": "这是一个包含“beyond”的简单例句。"
+  },
+  {
+    "word": "despite",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'despite'.",
+    "example_cn": "这是一个包含“despite”的简单例句。"
+  },
+  {
+    "word": "toward",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'toward'.",
+    "example_cn": "这是一个包含“toward”的简单例句。"
+  },
+  {
+    "word": "within",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'within'.",
+    "example_cn": "这是一个包含“within”的简单例句。"
+  },
+  {
+    "word": "plays",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'plays'.",
+    "example_cn": "这是一个包含“plays”的简单例句。"
+  },
+  {
+    "word": "played",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'played'.",
+    "example_cn": "这是一个包含“played”的简单例句。"
+  },
+  {
+    "word": "playing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'playing'.",
+    "example_cn": "这是一个包含“playing”的简单例句。"
+  },
+  {
+    "word": "works",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'works'.",
+    "example_cn": "这是一个包含“works”的简单例句。"
+  },
+  {
+    "word": "worked",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'worked'.",
+    "example_cn": "这是一个包含“worked”的简单例句。"
+  },
+  {
+    "word": "working",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'working'.",
+    "example_cn": "这是一个包含“working”的简单例句。"
+  },
+  {
+    "word": "walks",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'walks'.",
+    "example_cn": "这是一个包含“walks”的简单例句。"
+  },
+  {
+    "word": "walked",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'walked'.",
+    "example_cn": "这是一个包含“walked”的简单例句。"
+  },
+  {
+    "word": "walking",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'walking'.",
+    "example_cn": "这是一个包含“walking”的简单例句。"
+  },
+  {
+    "word": "talks",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'talks'.",
+    "example_cn": "这是一个包含“talks”的简单例句。"
+  },
+  {
+    "word": "talked",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'talked'.",
+    "example_cn": "这是一个包含“talked”的简单例句。"
+  },
+  {
+    "word": "talking",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'talking'.",
+    "example_cn": "这是一个包含“talking”的简单例句。"
+  },
+  {
+    "word": "look",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'look'.",
+    "example_cn": "这是一个包含“look”的简单例句。"
+  },
+  {
+    "word": "looks",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'looks'.",
+    "example_cn": "这是一个包含“looks”的简单例句。"
+  },
+  {
+    "word": "looked",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'looked'.",
+    "example_cn": "这是一个包含“looked”的简单例句。"
+  },
+  {
+    "word": "looking",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'looking'.",
+    "example_cn": "这是一个包含“looking”的简单例句。"
+  },
+  {
+    "word": "helps",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'helps'.",
+    "example_cn": "这是一个包含“helps”的简单例句。"
+  },
+  {
+    "word": "helped",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'helped'.",
+    "example_cn": "这是一个包含“helped”的简单例句。"
+  },
+  {
+    "word": "helping",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'helping'.",
+    "example_cn": "这是一个包含“helping”的简单例句。"
+  },
+  {
+    "word": "calls",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'calls'.",
+    "example_cn": "这是一个包含“calls”的简单例句。"
+  },
+  {
+    "word": "called",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'called'.",
+    "example_cn": "这是一个包含“called”的简单例句。"
+  },
+  {
+    "word": "calling",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'calling'.",
+    "example_cn": "这是一个包含“calling”的简单例句。"
+  },
+  {
+    "word": "moves",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'moves'.",
+    "example_cn": "这是一个包含“moves”的简单例句。"
+  },
+  {
+    "word": "moveed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'moveed'.",
+    "example_cn": "这是一个包含“moveed”的简单例句。"
+  },
+  {
+    "word": "moveing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'moveing'.",
+    "example_cn": "这是一个包含“moveing”的简单例句。"
+  },
+  {
+    "word": "opens",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'opens'.",
+    "example_cn": "这是一个包含“opens”的简单例句。"
+  },
+  {
+    "word": "opened",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'opened'.",
+    "example_cn": "这是一个包含“opened”的简单例句。"
+  },
+  {
+    "word": "opening",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'opening'.",
+    "example_cn": "这是一个包含“opening”的简单例句。"
+  },
+  {
+    "word": "close",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'close'.",
+    "example_cn": "这是一个包含“close”的简单例句。"
+  },
+  {
+    "word": "closes",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'closes'.",
+    "example_cn": "这是一个包含“closes”的简单例句。"
+  },
+  {
+    "word": "closeed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'closeed'.",
+    "example_cn": "这是一个包含“closeed”的简单例句。"
+  },
+  {
+    "word": "closeing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'closeing'.",
+    "example_cn": "这是一个包含“closeing”的简单例句。"
+  },
+  {
+    "word": "starts",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'starts'.",
+    "example_cn": "这是一个包含“starts”的简单例句。"
+  },
+  {
+    "word": "started",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'started'.",
+    "example_cn": "这是一个包含“started”的简单例句。"
+  },
+  {
+    "word": "starting",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'starting'.",
+    "example_cn": "这是一个包含“starting”的简单例句。"
+  },
+  {
+    "word": "finishs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'finishs'.",
+    "example_cn": "这是一个包含“finishs”的简单例句。"
+  },
+  {
+    "word": "finished",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'finished'.",
+    "example_cn": "这是一个包含“finished”的简单例句。"
+  },
+  {
+    "word": "finishing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'finishing'.",
+    "example_cn": "这是一个包含“finishing”的简单例句。"
+  },
+  {
+    "word": "watchs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'watchs'.",
+    "example_cn": "这是一个包含“watchs”的简单例句。"
+  },
+  {
+    "word": "watched",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'watched'.",
+    "example_cn": "这是一个包含“watched”的简单例句。"
+  },
+  {
+    "word": "watching",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'watching'.",
+    "example_cn": "这是一个包含“watching”的简单例句。"
+  },
+  {
+    "word": "listens",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'listens'.",
+    "example_cn": "这是一个包含“listens”的简单例句。"
+  },
+  {
+    "word": "listened",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'listened'.",
+    "example_cn": "这是一个包含“listened”的简单例句。"
+  },
+  {
+    "word": "listening",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'listening'.",
+    "example_cn": "这是一个包含“listening”的简单例句。"
+  },
+  {
+    "word": "studys",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'studys'.",
+    "example_cn": "这是一个包含“studys”的简单例句。"
+  },
+  {
+    "word": "studyed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'studyed'.",
+    "example_cn": "这是一个包含“studyed”的简单例句。"
+  },
+  {
+    "word": "studying",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'studying'.",
+    "example_cn": "这是一个包含“studying”的简单例句。"
+  },
+  {
+    "word": "learns",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'learns'.",
+    "example_cn": "这是一个包含“learns”的简单例句。"
+  },
+  {
+    "word": "learned",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'learned'.",
+    "example_cn": "这是一个包含“learned”的简单例句。"
+  },
+  {
+    "word": "learning",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'learning'.",
+    "example_cn": "这是一个包含“learning”的简单例句。"
+  },
+  {
+    "word": "teachs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'teachs'.",
+    "example_cn": "这是一个包含“teachs”的简单例句。"
+  },
+  {
+    "word": "teached",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'teached'.",
+    "example_cn": "这是一个包含“teached”的简单例句。"
+  },
+  {
+    "word": "teaching",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'teaching'.",
+    "example_cn": "这是一个包含“teaching”的简单例句。"
+  },
+  {
+    "word": "cooks",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cooks'.",
+    "example_cn": "这是一个包含“cooks”的简单例句。"
+  },
+  {
+    "word": "cooked",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cooked'.",
+    "example_cn": "这是一个包含“cooked”的简单例句。"
+  },
+  {
+    "word": "cooking",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cooking'.",
+    "example_cn": "这是一个包含“cooking”的简单例句。"
+  },
+  {
+    "word": "washs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'washs'.",
+    "example_cn": "这是一个包含“washs”的简单例句。"
+  },
+  {
+    "word": "washed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'washed'.",
+    "example_cn": "这是一个包含“washed”的简单例句。"
+  },
+  {
+    "word": "washing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'washing'.",
+    "example_cn": "这是一个包含“washing”的简单例句。"
+  },
+  {
+    "word": "cleans",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cleans'.",
+    "example_cn": "这是一个包含“cleans”的简单例句。"
+  },
+  {
+    "word": "cleaned",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cleaned'.",
+    "example_cn": "这是一个包含“cleaned”的简单例句。"
+  },
+  {
+    "word": "cleaning",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cleaning'.",
+    "example_cn": "这是一个包含“cleaning”的简单例句。"
+  },
+  {
+    "word": "reads",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'reads'.",
+    "example_cn": "这是一个包含“reads”的简单例句。"
+  },
+  {
+    "word": "readed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'readed'.",
+    "example_cn": "这是一个包含“readed”的简单例句。"
+  },
+  {
+    "word": "reading",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'reading'.",
+    "example_cn": "这是一个包含“reading”的简单例句。"
+  },
+  {
+    "word": "writes",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'writes'.",
+    "example_cn": "这是一个包含“writes”的简单例句。"
+  },
+  {
+    "word": "writeed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'writeed'.",
+    "example_cn": "这是一个包含“writeed”的简单例句。"
+  },
+  {
+    "word": "writeing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'writeing'.",
+    "example_cn": "这是一个包含“writeing”的简单例句。"
+  },
+  {
+    "word": "speaks",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'speaks'.",
+    "example_cn": "这是一个包含“speaks”的简单例句。"
+  },
+  {
+    "word": "speaked",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'speaked'.",
+    "example_cn": "这是一个包含“speaked”的简单例句。"
+  },
+  {
+    "word": "speaking",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'speaking'.",
+    "example_cn": "这是一个包含“speaking”的简单例句。"
+  },
+  {
+    "word": "asks",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'asks'.",
+    "example_cn": "这是一个包含“asks”的简单例句。"
+  },
+  {
+    "word": "asked",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'asked'.",
+    "example_cn": "这是一个包含“asked”的简单例句。"
+  },
+  {
+    "word": "asking",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'asking'.",
+    "example_cn": "这是一个包含“asking”的简单例句。"
+  },
+  {
+    "word": "answers",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'answers'.",
+    "example_cn": "这是一个包含“answers”的简单例句。"
+  },
+  {
+    "word": "answered",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'answered'.",
+    "example_cn": "这是一个包含“answered”的简单例句。"
+  },
+  {
+    "word": "answering",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'answering'.",
+    "example_cn": "这是一个包含“answering”的简单例句。"
+  },
+  {
+    "word": "loves",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'loves'.",
+    "example_cn": "这是一个包含“loves”的简单例句。"
+  },
+  {
+    "word": "loveed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'loveed'.",
+    "example_cn": "这是一个包含“loveed”的简单例句。"
+  },
+  {
+    "word": "loveing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'loveing'.",
+    "example_cn": "这是一个包含“loveing”的简单例句。"
+  },
+  {
+    "word": "likes",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'likes'.",
+    "example_cn": "这是一个包含“likes”的简单例句。"
+  },
+  {
+    "word": "likeed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'likeed'.",
+    "example_cn": "这是一个包含“likeed”的简单例句。"
+  },
+  {
+    "word": "likeing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'likeing'.",
+    "example_cn": "这是一个包含“likeing”的简单例句。"
+  },
+  {
+    "word": "needs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'needs'.",
+    "example_cn": "这是一个包含“needs”的简单例句。"
+  },
+  {
+    "word": "needed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'needed'.",
+    "example_cn": "这是一个包含“needed”的简单例句。"
+  },
+  {
+    "word": "needing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'needing'.",
+    "example_cn": "这是一个包含“needing”的简单例句。"
+  },
+  {
+    "word": "wants",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wants'.",
+    "example_cn": "这是一个包含“wants”的简单例句。"
+  },
+  {
+    "word": "wanted",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wanted'.",
+    "example_cn": "这是一个包含“wanted”的简单例句。"
+  },
+  {
+    "word": "wanting",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wanting'.",
+    "example_cn": "这是一个包含“wanting”的简单例句。"
+  },
+  {
+    "word": "plans",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'plans'.",
+    "example_cn": "这是一个包含“plans”的简单例句。"
+  },
+  {
+    "word": "planed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'planed'.",
+    "example_cn": "这是一个包含“planed”的简单例句。"
+  },
+  {
+    "word": "planing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'planing'.",
+    "example_cn": "这是一个包含“planing”的简单例句。"
+  },
+  {
+    "word": "hopes",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hopes'.",
+    "example_cn": "这是一个包含“hopes”的简单例句。"
+  },
+  {
+    "word": "hopeed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hopeed'.",
+    "example_cn": "这是一个包含“hopeed”的简单例句。"
+  },
+  {
+    "word": "hopeing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hopeing'.",
+    "example_cn": "这是一个包含“hopeing”的简单例句。"
+  },
+  {
+    "word": "changes",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'changes'.",
+    "example_cn": "这是一个包含“changes”的简单例句。"
+  },
+  {
+    "word": "changeed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'changeed'.",
+    "example_cn": "这是一个包含“changeed”的简单例句。"
+  },
+  {
+    "word": "changeing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'changeing'.",
+    "example_cn": "这是一个包含“changeing”的简单例句。"
+  },
+  {
+    "word": "stays",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'stays'.",
+    "example_cn": "这是一个包含“stays”的简单例句。"
+  },
+  {
+    "word": "stayed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'stayed'.",
+    "example_cn": "这是一个包含“stayed”的简单例句。"
+  },
+  {
+    "word": "staying",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'staying'.",
+    "example_cn": "这是一个包含“staying”的简单例句。"
+  },
+  {
+    "word": "leaves",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'leaves'.",
+    "example_cn": "这是一个包含“leaves”的简单例句。"
+  },
+  {
+    "word": "leaveed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'leaveed'.",
+    "example_cn": "这是一个包含“leaveed”的简单例句。"
+  },
+  {
+    "word": "leaveing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'leaveing'.",
+    "example_cn": "这是一个包含“leaveing”的简单例句。"
+  },
+  {
+    "word": "arrives",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'arrives'.",
+    "example_cn": "这是一个包含“arrives”的简单例句。"
+  },
+  {
+    "word": "arriveed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'arriveed'.",
+    "example_cn": "这是一个包含“arriveed”的简单例句。"
+  },
+  {
+    "word": "arriveing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'arriveing'.",
+    "example_cn": "这是一个包含“arriveing”的简单例句。"
+  },
+  {
+    "word": "returns",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'returns'.",
+    "example_cn": "这是一个包含“returns”的简单例句。"
+  },
+  {
+    "word": "returned",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'returned'.",
+    "example_cn": "这是一个包含“returned”的简单例句。"
+  },
+  {
+    "word": "returning",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'returning'.",
+    "example_cn": "这是一个包含“returning”的简单例句。"
+  },
+  {
+    "word": "carrys",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'carrys'.",
+    "example_cn": "这是一个包含“carrys”的简单例句。"
+  },
+  {
+    "word": "carryed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'carryed'.",
+    "example_cn": "这是一个包含“carryed”的简单例句。"
+  },
+  {
+    "word": "carrying",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'carrying'.",
+    "example_cn": "这是一个包含“carrying”的简单例句。"
+  },
+  {
+    "word": "brings",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'brings'.",
+    "example_cn": "这是一个包含“brings”的简单例句。"
+  },
+  {
+    "word": "bringed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bringed'.",
+    "example_cn": "这是一个包含“bringed”的简单例句。"
+  },
+  {
+    "word": "bringing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bringing'.",
+    "example_cn": "这是一个包含“bringing”的简单例句。"
+  },
+  {
+    "word": "takes",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'takes'.",
+    "example_cn": "这是一个包含“takes”的简单例句。"
+  },
+  {
+    "word": "takeed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'takeed'.",
+    "example_cn": "这是一个包含“takeed”的简单例句。"
+  },
+  {
+    "word": "takeing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'takeing'.",
+    "example_cn": "这是一个包含“takeing”的简单例句。"
+  },
+  {
+    "word": "gives",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'gives'.",
+    "example_cn": "这是一个包含“gives”的简单例句。"
+  },
+  {
+    "word": "giveed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'giveed'.",
+    "example_cn": "这是一个包含“giveed”的简单例句。"
+  },
+  {
+    "word": "giveing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'giveing'.",
+    "example_cn": "这是一个包含“giveing”的简单例句。"
+  },
+  {
+    "word": "sends",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sends'.",
+    "example_cn": "这是一个包含“sends”的简单例句。"
+  },
+  {
+    "word": "sended",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sended'.",
+    "example_cn": "这是一个包含“sended”的简单例句。"
+  },
+  {
+    "word": "sending",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sending'.",
+    "example_cn": "这是一个包含“sending”的简单例句。"
+  },
+  {
+    "word": "receives",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'receives'.",
+    "example_cn": "这是一个包含“receives”的简单例句。"
+  },
+  {
+    "word": "receiveed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'receiveed'.",
+    "example_cn": "这是一个包含“receiveed”的简单例句。"
+  },
+  {
+    "word": "receiveing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'receiveing'.",
+    "example_cn": "这是一个包含“receiveing”的简单例句。"
+  },
+  {
+    "word": "saves",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'saves'.",
+    "example_cn": "这是一个包含“saves”的简单例句。"
+  },
+  {
+    "word": "saveed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'saveed'.",
+    "example_cn": "这是一个包含“saveed”的简单例句。"
+  },
+  {
+    "word": "saveing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'saveing'.",
+    "example_cn": "这是一个包含“saveing”的简单例句。"
+  },
+  {
+    "word": "spends",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'spends'.",
+    "example_cn": "这是一个包含“spends”的简单例句。"
+  },
+  {
+    "word": "spended",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'spended'.",
+    "example_cn": "这是一个包含“spended”的简单例句。"
+  },
+  {
+    "word": "spending",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'spending'.",
+    "example_cn": "这是一个包含“spending”的简单例句。"
+  },
+  {
+    "word": "buys",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'buys'.",
+    "example_cn": "这是一个包含“buys”的简单例句。"
+  },
+  {
+    "word": "buyed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'buyed'.",
+    "example_cn": "这是一个包含“buyed”的简单例句。"
+  },
+  {
+    "word": "buying",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'buying'.",
+    "example_cn": "这是一个包含“buying”的简单例句。"
+  },
+  {
+    "word": "sells",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sells'.",
+    "example_cn": "这是一个包含“sells”的简单例句。"
+  },
+  {
+    "word": "selled",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'selled'.",
+    "example_cn": "这是一个包含“selled”的简单例句。"
+  },
+  {
+    "word": "selling",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'selling'.",
+    "example_cn": "这是一个包含“selling”的简单例句。"
+  },
+  {
+    "word": "pays",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'pays'.",
+    "example_cn": "这是一个包含“pays”的简单例句。"
+  },
+  {
+    "word": "payed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'payed'.",
+    "example_cn": "这是一个包含“payed”的简单例句。"
+  },
+  {
+    "word": "paying",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'paying'.",
+    "example_cn": "这是一个包含“paying”的简单例句。"
+  },
+  {
+    "word": "meets",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'meets'.",
+    "example_cn": "这是一个包含“meets”的简单例句。"
+  },
+  {
+    "word": "meeted",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'meeted'.",
+    "example_cn": "这是一个包含“meeted”的简单例句。"
+  },
+  {
+    "word": "meeting",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'meeting'.",
+    "example_cn": "这是一个包含“meeting”的简单例句。"
+  },
+  {
+    "word": "follows",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'follows'.",
+    "example_cn": "这是一个包含“follows”的简单例句。"
+  },
+  {
+    "word": "followed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'followed'.",
+    "example_cn": "这是一个包含“followed”的简单例句。"
+  },
+  {
+    "word": "following",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'following'.",
+    "example_cn": "这是一个包含“following”的简单例句。"
+  },
+  {
+    "word": "remembers",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'remembers'.",
+    "example_cn": "这是一个包含“remembers”的简单例句。"
+  },
+  {
+    "word": "remembered",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'remembered'.",
+    "example_cn": "这是一个包含“remembered”的简单例句。"
+  },
+  {
+    "word": "remembering",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'remembering'.",
+    "example_cn": "这是一个包含“remembering”的简单例句。"
+  },
+  {
+    "word": "forgets",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'forgets'.",
+    "example_cn": "这是一个包含“forgets”的简单例句。"
+  },
+  {
+    "word": "forgeted",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'forgeted'.",
+    "example_cn": "这是一个包含“forgeted”的简单例句。"
+  },
+  {
+    "word": "forgeting",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'forgeting'.",
+    "example_cn": "这是一个包含“forgeting”的简单例句。"
+  },
+  {
+    "word": "chooses",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'chooses'.",
+    "example_cn": "这是一个包含“chooses”的简单例句。"
+  },
+  {
+    "word": "chooseed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'chooseed'.",
+    "example_cn": "这是一个包含“chooseed”的简单例句。"
+  },
+  {
+    "word": "chooseing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'chooseing'.",
+    "example_cn": "这是一个包含“chooseing”的简单例句。"
+  },
+  {
+    "word": "decides",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'decides'.",
+    "example_cn": "这是一个包含“decides”的简单例句。"
+  },
+  {
+    "word": "decideed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'decideed'.",
+    "example_cn": "这是一个包含“decideed”的简单例句。"
+  },
+  {
+    "word": "decideing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'decideing'.",
+    "example_cn": "这是一个包含“decideing”的简单例句。"
+  },
+  {
+    "word": "laughs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'laughs'.",
+    "example_cn": "这是一个包含“laughs”的简单例句。"
+  },
+  {
+    "word": "laughed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'laughed'.",
+    "example_cn": "这是一个包含“laughed”的简单例句。"
+  },
+  {
+    "word": "laughing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'laughing'.",
+    "example_cn": "这是一个包含“laughing”的简单例句。"
+  },
+  {
+    "word": "smiles",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'smiles'.",
+    "example_cn": "这是一个包含“smiles”的简单例句。"
+  },
+  {
+    "word": "smileed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'smileed'.",
+    "example_cn": "这是一个包含“smileed”的简单例句。"
+  },
+  {
+    "word": "smileing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'smileing'.",
+    "example_cn": "这是一个包含“smileing”的简单例句。"
+  },
+  {
+    "word": "crys",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'crys'.",
+    "example_cn": "这是一个包含“crys”的简单例句。"
+  },
+  {
+    "word": "cryed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cryed'.",
+    "example_cn": "这是一个包含“cryed”的简单例句。"
+  },
+  {
+    "word": "crying",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'crying'.",
+    "example_cn": "这是一个包含“crying”的简单例句。"
+  },
+  {
+    "word": "lives",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'lives'.",
+    "example_cn": "这是一个包含“lives”的简单例句。"
+  },
+  {
+    "word": "liveed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'liveed'.",
+    "example_cn": "这是一个包含“liveed”的简单例句。"
+  },
+  {
+    "word": "liveing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'liveing'.",
+    "example_cn": "这是一个包含“liveing”的简单例句。"
+  },
+  {
+    "word": "believes",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'believes'.",
+    "example_cn": "这是一个包含“believes”的简单例句。"
+  },
+  {
+    "word": "believeed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'believeed'.",
+    "example_cn": "这是一个包含“believeed”的简单例句。"
+  },
+  {
+    "word": "believeing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'believeing'.",
+    "example_cn": "这是一个包含“believeing”的简单例句。"
+  },
+  {
+    "word": "creates",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'creates'.",
+    "example_cn": "这是一个包含“creates”的简单例句。"
+  },
+  {
+    "word": "createed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'createed'.",
+    "example_cn": "这是一个包含“createed”的简单例句。"
+  },
+  {
+    "word": "createing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'createing'.",
+    "example_cn": "这是一个包含“createing”的简单例句。"
+  },
+  {
+    "word": "grows",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'grows'.",
+    "example_cn": "这是一个包含“grows”的简单例句。"
+  },
+  {
+    "word": "growed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'growed'.",
+    "example_cn": "这是一个包含“growed”的简单例句。"
+  },
+  {
+    "word": "growing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'growing'.",
+    "example_cn": "这是一个包含“growing”的简单例句。"
+  },
+  {
+    "word": "offers",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'offers'.",
+    "example_cn": "这是一个包含“offers”的简单例句。"
+  },
+  {
+    "word": "offered",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'offered'.",
+    "example_cn": "这是一个包含“offered”的简单例句。"
+  },
+  {
+    "word": "offering",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'offering'.",
+    "example_cn": "这是一个包含“offering”的简单例句。"
+  },
+  {
+    "word": "serves",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'serves'.",
+    "example_cn": "这是一个包含“serves”的简单例句。"
+  },
+  {
+    "word": "serveed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'serveed'.",
+    "example_cn": "这是一个包含“serveed”的简单例句。"
+  },
+  {
+    "word": "serveing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'serveing'.",
+    "example_cn": "这是一个包含“serveing”的简单例句。"
+  },
+  {
+    "word": "waits",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'waits'.",
+    "example_cn": "这是一个包含“waits”的简单例句。"
+  },
+  {
+    "word": "waited",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'waited'.",
+    "example_cn": "这是一个包含“waited”的简单例句。"
+  },
+  {
+    "word": "waiting",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'waiting'.",
+    "example_cn": "这是一个包含“waiting”的简单例句。"
+  },
+  {
+    "word": "wins",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wins'.",
+    "example_cn": "这是一个包含“wins”的简单例句。"
+  },
+  {
+    "word": "wined",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wined'.",
+    "example_cn": "这是一个包含“wined”的简单例句。"
+  },
+  {
+    "word": "wining",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wining'.",
+    "example_cn": "这是一个包含“wining”的简单例句。"
+  },
+  {
+    "word": "loses",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'loses'.",
+    "example_cn": "这是一个包含“loses”的简单例句。"
+  },
+  {
+    "word": "loseed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'loseed'.",
+    "example_cn": "这是一个包含“loseed”的简单例句。"
+  },
+  {
+    "word": "loseing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'loseing'.",
+    "example_cn": "这是一个包含“loseing”的简单例句。"
+  },
+  {
+    "word": "sets",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sets'.",
+    "example_cn": "这是一个包含“sets”的简单例句。"
+  },
+  {
+    "word": "seted",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'seted'.",
+    "example_cn": "这是一个包含“seted”的简单例句。"
+  },
+  {
+    "word": "seting",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'seting'.",
+    "example_cn": "这是一个包含“seting”的简单例句。"
+  },
+  {
+    "word": "builds",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'builds'.",
+    "example_cn": "这是一个包含“builds”的简单例句。"
+  },
+  {
+    "word": "builded",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'builded'.",
+    "example_cn": "这是一个包含“builded”的简单例句。"
+  },
+  {
+    "word": "building",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'building'.",
+    "example_cn": "这是一个包含“building”的简单例句。"
+  },
+  {
+    "word": "fixs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fixs'.",
+    "example_cn": "这是一个包含“fixs”的简单例句。"
+  },
+  {
+    "word": "fixed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fixed'.",
+    "example_cn": "这是一个包含“fixed”的简单例句。"
+  },
+  {
+    "word": "fixing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fixing'.",
+    "example_cn": "这是一个包含“fixing”的简单例句。"
+  },
+  {
+    "word": "draws",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'draws'.",
+    "example_cn": "这是一个包含“draws”的简单例句。"
+  },
+  {
+    "word": "drawed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'drawed'.",
+    "example_cn": "这是一个包含“drawed”的简单例句。"
+  },
+  {
+    "word": "drawing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'drawing'.",
+    "example_cn": "这是一个包含“drawing”的简单例句。"
+  },
+  {
+    "word": "sings",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sings'.",
+    "example_cn": "这是一个包含“sings”的简单例句。"
+  },
+  {
+    "word": "singed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'singed'.",
+    "example_cn": "这是一个包含“singed”的简单例句。"
+  },
+  {
+    "word": "singing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'singing'.",
+    "example_cn": "这是一个包含“singing”的简单例句。"
+  },
+  {
+    "word": "dances",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dances'.",
+    "example_cn": "这是一个包含“dances”的简单例句。"
+  },
+  {
+    "word": "danceed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'danceed'.",
+    "example_cn": "这是一个包含“danceed”的简单例句。"
+  },
+  {
+    "word": "danceing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'danceing'.",
+    "example_cn": "这是一个包含“danceing”的简单例句。"
+  },
+  {
+    "word": "rests",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'rests'.",
+    "example_cn": "这是一个包含“rests”的简单例句。"
+  },
+  {
+    "word": "rested",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'rested'.",
+    "example_cn": "这是一个包含“rested”的简单例句。"
+  },
+  {
+    "word": "resting",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'resting'.",
+    "example_cn": "这是一个包含“resting”的简单例句。"
+  },
+  {
+    "word": "sleeps",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sleeps'.",
+    "example_cn": "这是一个包含“sleeps”的简单例句。"
+  },
+  {
+    "word": "sleeped",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sleeped'.",
+    "example_cn": "这是一个包含“sleeped”的简单例句。"
+  },
+  {
+    "word": "sleeping",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sleeping'.",
+    "example_cn": "这是一个包含“sleeping”的简单例句。"
+  },
+  {
+    "word": "wakes",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wakes'.",
+    "example_cn": "这是一个包含“wakes”的简单例句。"
+  },
+  {
+    "word": "wakeed",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wakeed'.",
+    "example_cn": "这是一个包含“wakeed”的简单例句。"
+  },
+  {
+    "word": "wakeing",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'wakeing'.",
+    "example_cn": "这是一个包含“wakeing”的简单例句。"
+  },
+  {
+    "word": "happyly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'happyly'.",
+    "example_cn": "这是一个包含“happyly”的简单例句。"
+  },
+  {
+    "word": "happyness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'happyness'.",
+    "example_cn": "这是一个包含“happyness”的简单例句。"
+  },
+  {
+    "word": "sadly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sadly'.",
+    "example_cn": "这是一个包含“sadly”的简单例句。"
+  },
+  {
+    "word": "sadness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'sadness'.",
+    "example_cn": "这是一个包含“sadness”的简单例句。"
+  },
+  {
+    "word": "kindly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'kindly'.",
+    "example_cn": "这是一个包含“kindly”的简单例句。"
+  },
+  {
+    "word": "kindness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'kindness'.",
+    "example_cn": "这是一个包含“kindness”的简单例句。"
+  },
+  {
+    "word": "slowly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'slowly'.",
+    "example_cn": "这是一个包含“slowly”的简单例句。"
+  },
+  {
+    "word": "slowness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'slowness'.",
+    "example_cn": "这是一个包含“slowness”的简单例句。"
+  },
+  {
+    "word": "fastly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fastly'.",
+    "example_cn": "这是一个包含“fastly”的简单例句。"
+  },
+  {
+    "word": "fastness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fastness'.",
+    "example_cn": "这是一个包含“fastness”的简单例句。"
+  },
+  {
+    "word": "clearly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'clearly'.",
+    "example_cn": "这是一个包含“clearly”的简单例句。"
+  },
+  {
+    "word": "clearness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'clearness'.",
+    "example_cn": "这是一个包含“clearness”的简单例句。"
+  },
+  {
+    "word": "safely",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'safely'.",
+    "example_cn": "这是一个包含“safely”的简单例句。"
+  },
+  {
+    "word": "safeness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'safeness'.",
+    "example_cn": "这是一个包含“safeness”的简单例句。"
+  },
+  {
+    "word": "busyly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'busyly'.",
+    "example_cn": "这是一个包含“busyly”的简单例句。"
+  },
+  {
+    "word": "busyness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'busyness'.",
+    "example_cn": "这是一个包含“busyness”的简单例句。"
+  },
+  {
+    "word": "quietly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'quietly'.",
+    "example_cn": "这是一个包含“quietly”的简单例句。"
+  },
+  {
+    "word": "quietness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'quietness'.",
+    "example_cn": "这是一个包含“quietness”的简单例句。"
+  },
+  {
+    "word": "loudly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'loudly'.",
+    "example_cn": "这是一个包含“loudly”的简单例句。"
+  },
+  {
+    "word": "loudness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'loudness'.",
+    "example_cn": "这是一个包含“loudness”的简单例句。"
+  },
+  {
+    "word": "cleanly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cleanly'.",
+    "example_cn": "这是一个包含“cleanly”的简单例句。"
+  },
+  {
+    "word": "cleanness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cleanness'.",
+    "example_cn": "这是一个包含“cleanness”的简单例句。"
+  },
+  {
+    "word": "dirtyly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dirtyly'.",
+    "example_cn": "这是一个包含“dirtyly”的简单例句。"
+  },
+  {
+    "word": "dirtyness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dirtyness'.",
+    "example_cn": "这是一个包含“dirtyness”的简单例句。"
+  },
+  {
+    "word": "easyly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'easyly'.",
+    "example_cn": "这是一个包含“easyly”的简单例句。"
+  },
+  {
+    "word": "easyness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'easyness'.",
+    "example_cn": "这是一个包含“easyness”的简单例句。"
+  },
+  {
+    "word": "hardly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hardly'.",
+    "example_cn": "这是一个包含“hardly”的简单例句。"
+  },
+  {
+    "word": "hardness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'hardness'.",
+    "example_cn": "这是一个包含“hardness”的简单例句。"
+  },
+  {
+    "word": "strongly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'strongly'.",
+    "example_cn": "这是一个包含“strongly”的简单例句。"
+  },
+  {
+    "word": "strongness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'strongness'.",
+    "example_cn": "这是一个包含“strongness”的简单例句。"
+  },
+  {
+    "word": "weakly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'weakly'.",
+    "example_cn": "这是一个包含“weakly”的简单例句。"
+  },
+  {
+    "word": "weakness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'weakness'.",
+    "example_cn": "这是一个包含“weakness”的简单例句。"
+  },
+  {
+    "word": "warmly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'warmly'.",
+    "example_cn": "这是一个包含“warmly”的简单例句。"
+  },
+  {
+    "word": "warmness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'warmness'.",
+    "example_cn": "这是一个包含“warmness”的简单例句。"
+  },
+  {
+    "word": "coolly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'coolly'.",
+    "example_cn": "这是一个包含“coolly”的简单例句。"
+  },
+  {
+    "word": "coolness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'coolness'.",
+    "example_cn": "这是一个包含“coolness”的简单例句。"
+  },
+  {
+    "word": "smartly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'smartly'.",
+    "example_cn": "这是一个包含“smartly”的简单例句。"
+  },
+  {
+    "word": "smartness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'smartness'.",
+    "example_cn": "这是一个包含“smartness”的简单例句。"
+  },
+  {
+    "word": "bravely",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bravely'.",
+    "example_cn": "这是一个包含“bravely”的简单例句。"
+  },
+  {
+    "word": "braveness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'braveness'.",
+    "example_cn": "这是一个包含“braveness”的简单例句。"
+  },
+  {
+    "word": "nicely",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'nicely'.",
+    "example_cn": "这是一个包含“nicely”的简单例句。"
+  },
+  {
+    "word": "niceness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'niceness'.",
+    "example_cn": "这是一个包含“niceness”的简单例句。"
+  },
+  {
+    "word": "realness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'realness'.",
+    "example_cn": "这是一个包含“realness”的简单例句。"
+  },
+  {
+    "word": "possiblely",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'possiblely'.",
+    "example_cn": "这是一个包含“possiblely”的简单例句。"
+  },
+  {
+    "word": "possibleness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'possibleness'.",
+    "example_cn": "这是一个包含“possibleness”的简单例句。"
+  },
+  {
+    "word": "importantly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'importantly'.",
+    "example_cn": "这是一个包含“importantly”的简单例句。"
+  },
+  {
+    "word": "importantness",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'importantness'.",
+    "example_cn": "这是一个包含“importantness”的简单例句。"
+  },
+  {
+    "word": "book",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'book'.",
+    "example_cn": "这是一个包含“book”的简单例句。"
+  },
+  {
+    "word": "books",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'books'.",
+    "example_cn": "这是一个包含“books”的简单例句。"
+  },
+  {
+    "word": "word",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'word'.",
+    "example_cn": "这是一个包含“word”的简单例句。"
+  },
+  {
+    "word": "words",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'words'.",
+    "example_cn": "这是一个包含“words”的简单例句。"
+  },
+  {
+    "word": "car",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'car'.",
+    "example_cn": "这是一个包含“car”的简单例句。"
+  },
+  {
+    "word": "cars",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cars'.",
+    "example_cn": "这是一个包含“cars”的简单例句。"
+  },
+  {
+    "word": "bus",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bus'.",
+    "example_cn": "这是一个包含“bus”的简单例句。"
+  },
+  {
+    "word": "buss",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'buss'.",
+    "example_cn": "这是一个包含“buss”的简单例句。"
+  },
+  {
+    "word": "train",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'train'.",
+    "example_cn": "这是一个包含“train”的简单例句。"
+  },
+  {
+    "word": "trains",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'trains'.",
+    "example_cn": "这是一个包含“trains”的简单例句。"
+  },
+  {
+    "word": "phone",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'phone'.",
+    "example_cn": "这是一个包含“phone”的简单例句。"
+  },
+  {
+    "word": "phones",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'phones'.",
+    "example_cn": "这是一个包含“phones”的简单例句。"
+  },
+  {
+    "word": "computer",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'computer'.",
+    "example_cn": "这是一个包含“computer”的简单例句。"
+  },
+  {
+    "word": "computers",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'computers'.",
+    "example_cn": "这是一个包含“computers”的简单例句。"
+  },
+  {
+    "word": "tables",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'tables'.",
+    "example_cn": "这是一个包含“tables”的简单例句。"
+  },
+  {
+    "word": "chairs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'chairs'.",
+    "example_cn": "这是一个包含“chairs”的简单例句。"
+  },
+  {
+    "word": "rooms",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'rooms'.",
+    "example_cn": "这是一个包含“rooms”的简单例句。"
+  },
+  {
+    "word": "houses",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'houses'.",
+    "example_cn": "这是一个包含“houses”的简单例句。"
+  },
+  {
+    "word": "schools",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'schools'.",
+    "example_cn": "这是一个包含“schools”的简单例句。"
+  },
+  {
+    "word": "citys",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'citys'.",
+    "example_cn": "这是一个包含“citys”的简单例句。"
+  },
+  {
+    "word": "countrys",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'countrys'.",
+    "example_cn": "这是一个包含“countrys”的简单例句。"
+  },
+  {
+    "word": "familys",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'familys'.",
+    "example_cn": "这是一个包含“familys”的简单例句。"
+  },
+  {
+    "word": "friends",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'friends'.",
+    "example_cn": "这是一个包含“friends”的简单例句。"
+  },
+  {
+    "word": "teachers",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'teachers'.",
+    "example_cn": "这是一个包含“teachers”的简单例句。"
+  },
+  {
+    "word": "students",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'students'.",
+    "example_cn": "这是一个包含“students”的简单例句。"
+  },
+  {
+    "word": "doctors",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'doctors'.",
+    "example_cn": "这是一个包含“doctors”的简单例句。"
+  },
+  {
+    "word": "workers",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'workers'.",
+    "example_cn": "这是一个包含“workers”的简单例句。"
+  },
+  {
+    "word": "game",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'game'.",
+    "example_cn": "这是一个包含“game”的简单例句。"
+  },
+  {
+    "word": "games",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'games'.",
+    "example_cn": "这是一个包含“games”的简单例句。"
+  },
+  {
+    "word": "song",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'song'.",
+    "example_cn": "这是一个包含“song”的简单例句。"
+  },
+  {
+    "word": "songs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'songs'.",
+    "example_cn": "这是一个包含“songs”的简单例句。"
+  },
+  {
+    "word": "story",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'story'.",
+    "example_cn": "这是一个包含“story”的简单例句。"
+  },
+  {
+    "word": "storys",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'storys'.",
+    "example_cn": "这是一个包含“storys”的简单例句。"
+  },
+  {
+    "word": "picture",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'picture'.",
+    "example_cn": "这是一个包含“picture”的简单例句。"
+  },
+  {
+    "word": "pictures",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'pictures'.",
+    "example_cn": "这是一个包含“pictures”的简单例句。"
+  },
+  {
+    "word": "idea",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'idea'.",
+    "example_cn": "这是一个包含“idea”的简单例句。"
+  },
+  {
+    "word": "ideas",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'ideas'.",
+    "example_cn": "这是一个包含“ideas”的简单例句。"
+  },
+  {
+    "word": "question",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'question'.",
+    "example_cn": "这是一个包含“question”的简单例句。"
+  },
+  {
+    "word": "questions",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'questions'.",
+    "example_cn": "这是一个包含“questions”的简单例句。"
+  },
+  {
+    "word": "problem",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'problem'.",
+    "example_cn": "这是一个包含“problem”的简单例句。"
+  },
+  {
+    "word": "problems",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'problems'.",
+    "example_cn": "这是一个包含“problems”的简单例句。"
+  },
+  {
+    "word": "dream",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dream'.",
+    "example_cn": "这是一个包含“dream”的简单例句。"
+  },
+  {
+    "word": "dreams",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dreams'.",
+    "example_cn": "这是一个包含“dreams”的简单例句。"
+  },
+  {
+    "word": "job",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'job'.",
+    "example_cn": "这是一个包含“job”的简单例句。"
+  },
+  {
+    "word": "jobs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'jobs'.",
+    "example_cn": "这是一个包含“jobs”的简单例句。"
+  },
+  {
+    "word": "teams",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'teams'.",
+    "example_cn": "这是一个包含“teams”的简单例句。"
+  },
+  {
+    "word": "classs",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'classs'.",
+    "example_cn": "这是一个包含“classs”的简单例句。"
+  },
+  {
+    "word": "groups",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'groups'.",
+    "example_cn": "这是一个包含“groups”的简单例句。"
+  },
+  {
+    "word": "ability",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'ability'.",
+    "example_cn": "这是一个包含“ability”的简单例句。"
+  },
+  {
+    "word": "able",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'able'.",
+    "example_cn": "这是一个包含“able”的简单例句。"
+  },
+  {
+    "word": "accept",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'accept'.",
+    "example_cn": "这是一个包含“accept”的简单例句。"
+  },
+  {
+    "word": "account",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'account'.",
+    "example_cn": "这是一个包含“account”的简单例句。"
+  },
+  {
+    "word": "action",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'action'.",
+    "example_cn": "这是一个包含“action”的简单例句。"
+  },
+  {
+    "word": "active",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'active'.",
+    "example_cn": "这是一个包含“active”的简单例句。"
+  },
+  {
+    "word": "activity",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'activity'.",
+    "example_cn": "这是一个包含“activity”的简单例句。"
+  },
+  {
+    "word": "add",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'add'.",
+    "example_cn": "这是一个包含“add”的简单例句。"
+  },
+  {
+    "word": "address",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'address'.",
+    "example_cn": "这是一个包含“address”的简单例句。"
+  },
+  {
+    "word": "administration",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'administration'.",
+    "example_cn": "这是一个包含“administration”的简单例句。"
+  },
+  {
+    "word": "admit",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'admit'.",
+    "example_cn": "这是一个包含“admit”的简单例句。"
+  },
+  {
+    "word": "adult",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'adult'.",
+    "example_cn": "这是一个包含“adult”的简单例句。"
+  },
+  {
+    "word": "affect",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'affect'.",
+    "example_cn": "这是一个包含“affect”的简单例句。"
+  },
+  {
+    "word": "age",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'age'.",
+    "example_cn": "这是一个包含“age”的简单例句。"
+  },
+  {
+    "word": "agency",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'agency'.",
+    "example_cn": "这是一个包含“agency”的简单例句。"
+  },
+  {
+    "word": "agent",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'agent'.",
+    "example_cn": "这是一个包含“agent”的简单例句。"
+  },
+  {
+    "word": "ago",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'ago'.",
+    "example_cn": "这是一个包含“ago”的简单例句。"
+  },
+  {
+    "word": "agree",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'agree'.",
+    "example_cn": "这是一个包含“agree”的简单例句。"
+  },
+  {
+    "word": "agreement",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'agreement'.",
+    "example_cn": "这是一个包含“agreement”的简单例句。"
+  },
+  {
+    "word": "ahead",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'ahead'.",
+    "example_cn": "这是一个包含“ahead”的简单例句。"
+  },
+  {
+    "word": "air",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'air'.",
+    "example_cn": "这是一个包含“air”的简单例句。"
+  },
+  {
+    "word": "allow",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'allow'.",
+    "example_cn": "这是一个包含“allow”的简单例句。"
+  },
+  {
+    "word": "almost",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'almost'.",
+    "example_cn": "这是一个包含“almost”的简单例句。"
+  },
+  {
+    "word": "along",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'along'.",
+    "example_cn": "这是一个包含“along”的简单例句。"
+  },
+  {
+    "word": "also",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'also'.",
+    "example_cn": "这是一个包含“also”的简单例句。"
+  },
+  {
+    "word": "american",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'american'.",
+    "example_cn": "这是一个包含“american”的简单例句。"
+  },
+  {
+    "word": "amount",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'amount'.",
+    "example_cn": "这是一个包含“amount”的简单例句。"
+  },
+  {
+    "word": "analysis",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'analysis'.",
+    "example_cn": "这是一个包含“analysis”的简单例句。"
+  },
+  {
+    "word": "animal",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'animal'.",
+    "example_cn": "这是一个包含“animal”的简单例句。"
+  },
+  {
+    "word": "anyone",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'anyone'.",
+    "example_cn": "这是一个包含“anyone”的简单例句。"
+  },
+  {
+    "word": "anything",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'anything'.",
+    "example_cn": "这是一个包含“anything”的简单例句。"
+  },
+  {
+    "word": "apply",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'apply'.",
+    "example_cn": "这是一个包含“apply”的简单例句。"
+  },
+  {
+    "word": "approach",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'approach'.",
+    "example_cn": "这是一个包含“approach”的简单例句。"
+  },
+  {
+    "word": "area",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'area'.",
+    "example_cn": "这是一个包含“area”的简单例句。"
+  },
+  {
+    "word": "argue",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'argue'.",
+    "example_cn": "这是一个包含“argue”的简单例句。"
+  },
+  {
+    "word": "arm",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'arm'.",
+    "example_cn": "这是一个包含“arm”的简单例句。"
+  },
+  {
+    "word": "art",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'art'.",
+    "example_cn": "这是一个包含“art”的简单例句。"
+  },
+  {
+    "word": "article",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'article'.",
+    "example_cn": "这是一个包含“article”的简单例句。"
+  },
+  {
+    "word": "assume",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'assume'.",
+    "example_cn": "这是一个包含“assume”的简单例句。"
+  },
+  {
+    "word": "attack",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'attack'.",
+    "example_cn": "这是一个包含“attack”的简单例句。"
+  },
+  {
+    "word": "attention",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'attention'.",
+    "example_cn": "这是一个包含“attention”的简单例句。"
+  },
+  {
+    "word": "attorney",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'attorney'.",
+    "example_cn": "这是一个包含“attorney”的简单例句。"
+  },
+  {
+    "word": "audience",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'audience'.",
+    "example_cn": "这是一个包含“audience”的简单例句。"
+  },
+  {
+    "word": "author",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'author'.",
+    "example_cn": "这是一个包含“author”的简单例句。"
+  },
+  {
+    "word": "available",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'available'.",
+    "example_cn": "这是一个包含“available”的简单例句。"
+  },
+  {
+    "word": "avoid",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'avoid'.",
+    "example_cn": "这是一个包含“avoid”的简单例句。"
+  },
+  {
+    "word": "back",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'back'.",
+    "example_cn": "这是一个包含“back”的简单例句。"
+  },
+  {
+    "word": "bag",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bag'.",
+    "example_cn": "这是一个包含“bag”的简单例句。"
+  },
+  {
+    "word": "ball",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'ball'.",
+    "example_cn": "这是一个包含“ball”的简单例句。"
+  },
+  {
+    "word": "bar",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bar'.",
+    "example_cn": "这是一个包含“bar”的简单例句。"
+  },
+  {
+    "word": "base",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'base'.",
+    "example_cn": "这是一个包含“base”的简单例句。"
+  },
+  {
+    "word": "beat",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'beat'.",
+    "example_cn": "这是一个包含“beat”的简单例句。"
+  },
+  {
+    "word": "beautiful",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'beautiful'.",
+    "example_cn": "这是一个包含“beautiful”的简单例句。"
+  },
+  {
+    "word": "behavior",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'behavior'.",
+    "example_cn": "这是一个包含“behavior”的简单例句。"
+  },
+  {
+    "word": "behind",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'behind'.",
+    "example_cn": "这是一个包含“behind”的简单例句。"
   },
   {
     "word": "benefit",
-    "phonetic": "/ˈbenɪfɪt/",
-    "meaning": "好处；受益",
-    "example": "Reading daily will benefit your vocabulary."
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'benefit'.",
+    "example_cn": "这是一个包含“benefit”的简单例句。"
+  },
+  {
+    "word": "bill",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bill'.",
+    "example_cn": "这是一个包含“bill”的简单例句。"
+  },
+  {
+    "word": "billion",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'billion'.",
+    "example_cn": "这是一个包含“billion”的简单例句。"
+  },
+  {
+    "word": "bit",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'bit'.",
+    "example_cn": "这是一个包含“bit”的简单例句。"
+  },
+  {
+    "word": "black",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'black'.",
+    "example_cn": "这是一个包含“black”的简单例句。"
+  },
+  {
+    "word": "blood",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'blood'.",
+    "example_cn": "这是一个包含“blood”的简单例句。"
+  },
+  {
+    "word": "blue",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'blue'.",
+    "example_cn": "这是一个包含“blue”的简单例句。"
+  },
+  {
+    "word": "board",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'board'.",
+    "example_cn": "这是一个包含“board”的简单例句。"
+  },
+  {
+    "word": "body",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'body'.",
+    "example_cn": "这是一个包含“body”的简单例句。"
+  },
+  {
+    "word": "born",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'born'.",
+    "example_cn": "这是一个包含“born”的简单例句。"
+  },
+  {
+    "word": "box",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'box'.",
+    "example_cn": "这是一个包含“box”的简单例句。"
+  },
+  {
+    "word": "break",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'break'.",
+    "example_cn": "这是一个包含“break”的简单例句。"
+  },
+  {
+    "word": "budget",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'budget'.",
+    "example_cn": "这是一个包含“budget”的简单例句。"
+  },
+  {
+    "word": "business",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'business'.",
+    "example_cn": "这是一个包含“business”的简单例句。"
+  },
+  {
+    "word": "camera",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'camera'.",
+    "example_cn": "这是一个包含“camera”的简单例句。"
+  },
+  {
+    "word": "campaign",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'campaign'.",
+    "example_cn": "这是一个包含“campaign”的简单例句。"
+  },
+  {
+    "word": "cancer",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cancer'.",
+    "example_cn": "这是一个包含“cancer”的简单例句。"
+  },
+  {
+    "word": "candidate",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'candidate'.",
+    "example_cn": "这是一个包含“candidate”的简单例句。"
+  },
+  {
+    "word": "capital",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'capital'.",
+    "example_cn": "这是一个包含“capital”的简单例句。"
+  },
+  {
+    "word": "card",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'card'.",
+    "example_cn": "这是一个包含“card”的简单例句。"
+  },
+  {
+    "word": "care",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'care'.",
+    "example_cn": "这是一个包含“care”的简单例句。"
+  },
+  {
+    "word": "career",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'career'.",
+    "example_cn": "这是一个包含“career”的简单例句。"
+  },
+  {
+    "word": "case",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'case'.",
+    "example_cn": "这是一个包含“case”的简单例句。"
+  },
+  {
+    "word": "catch",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'catch'.",
+    "example_cn": "这是一个包含“catch”的简单例句。"
+  },
+  {
+    "word": "cause",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cause'.",
+    "example_cn": "这是一个包含“cause”的简单例句。"
+  },
+  {
+    "word": "cell",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cell'.",
+    "example_cn": "这是一个包含“cell”的简单例句。"
+  },
+  {
+    "word": "center",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'center'.",
+    "example_cn": "这是一个包含“center”的简单例句。"
+  },
+  {
+    "word": "central",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'central'.",
+    "example_cn": "这是一个包含“central”的简单例句。"
+  },
+  {
+    "word": "century",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'century'.",
+    "example_cn": "这是一个包含“century”的简单例句。"
+  },
+  {
+    "word": "certain",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'certain'.",
+    "example_cn": "这是一个包含“certain”的简单例句。"
+  },
+  {
+    "word": "certainly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'certainly'.",
+    "example_cn": "这是一个包含“certainly”的简单例句。"
   },
   {
     "word": "challenge",
-    "phonetic": "/ˈtʃælɪndʒ/",
-    "meaning": "挑战",
-    "example": "Learning ten words a day is a fun challenge."
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'challenge'.",
+    "example_cn": "这是一个包含“challenge”的简单例句。"
   },
   {
-    "word": "diligent",
-    "phonetic": "/ˈdɪlɪdʒənt/",
-    "meaning": "勤奋的",
-    "example": "She is diligent in studying English every morning."
+    "word": "chance",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'chance'.",
+    "example_cn": "这是一个包含“chance”的简单例句。"
   },
   {
-    "word": "efficient",
-    "phonetic": "/ɪˈfɪʃənt/",
-    "meaning": "高效的",
-    "example": "Flashcards are an efficient way to memorize words."
+    "word": "character",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'character'.",
+    "example_cn": "这是一个包含“character”的简单例句。"
   },
   {
-    "word": "frequent",
-    "phonetic": "/ˈfriːkwənt/",
-    "meaning": "频繁的",
-    "example": "Frequent review helps memory stay strong."
+    "word": "charge",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'charge'.",
+    "example_cn": "这是一个包含“charge”的简单例句。"
   },
   {
-    "word": "generate",
-    "phonetic": "/ˈdʒenəreɪt/",
-    "meaning": "产生；生成",
-    "example": "Practice can generate confidence in speaking."
+    "word": "check",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'check'.",
+    "example_cn": "这是一个包含“check”的简单例句。"
   },
   {
-    "word": "habit",
-    "phonetic": "/ˈhæbɪt/",
-    "meaning": "习惯",
-    "example": "Make word review a daily habit."
+    "word": "choice",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'choice'.",
+    "example_cn": "这是一个包含“choice”的简单例句。"
   },
   {
-    "word": "improve",
-    "phonetic": "/ɪmˈpruːv/",
-    "meaning": "提高；改进",
-    "example": "You will improve if you keep practicing."
+    "word": "church",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'church'.",
+    "example_cn": "这是一个包含“church”的简单例句。"
   },
   {
-    "word": "journey",
-    "phonetic": "/ˈdʒɜːrni/",
-    "meaning": "旅程；过程",
-    "example": "Learning English is a long but meaningful journey."
+    "word": "citizen",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'citizen'.",
+    "example_cn": "这是一个包含“citizen”的简单例句。"
+  },
+  {
+    "word": "civil",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'civil'.",
+    "example_cn": "这是一个包含“civil”的简单例句。"
+  },
+  {
+    "word": "claim",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'claim'.",
+    "example_cn": "这是一个包含“claim”的简单例句。"
+  },
+  {
+    "word": "coach",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'coach'.",
+    "example_cn": "这是一个包含“coach”的简单例句。"
+  },
+  {
+    "word": "collection",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'collection'.",
+    "example_cn": "这是一个包含“collection”的简单例句。"
+  },
+  {
+    "word": "college",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'college'.",
+    "example_cn": "这是一个包含“college”的简单例句。"
+  },
+  {
+    "word": "color",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'color'.",
+    "example_cn": "这是一个包含“color”的简单例句。"
+  },
+  {
+    "word": "commercial",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'commercial'.",
+    "example_cn": "这是一个包含“commercial”的简单例句。"
+  },
+  {
+    "word": "common",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'common'.",
+    "example_cn": "这是一个包含“common”的简单例句。"
+  },
+  {
+    "word": "community",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'community'.",
+    "example_cn": "这是一个包含“community”的简单例句。"
+  },
+  {
+    "word": "compare",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'compare'.",
+    "example_cn": "这是一个包含“compare”的简单例句。"
+  },
+  {
+    "word": "concern",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'concern'.",
+    "example_cn": "这是一个包含“concern”的简单例句。"
+  },
+  {
+    "word": "condition",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'condition'.",
+    "example_cn": "这是一个包含“condition”的简单例句。"
+  },
+  {
+    "word": "conference",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'conference'.",
+    "example_cn": "这是一个包含“conference”的简单例句。"
+  },
+  {
+    "word": "congress",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'congress'.",
+    "example_cn": "这是一个包含“congress”的简单例句。"
+  },
+  {
+    "word": "consumer",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'consumer'.",
+    "example_cn": "这是一个包含“consumer”的简单例句。"
+  },
+  {
+    "word": "contain",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'contain'.",
+    "example_cn": "这是一个包含“contain”的简单例句。"
+  },
+  {
+    "word": "control",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'control'.",
+    "example_cn": "这是一个包含“control”的简单例句。"
+  },
+  {
+    "word": "cost",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cost'.",
+    "example_cn": "这是一个包含“cost”的简单例句。"
+  },
+  {
+    "word": "couple",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'couple'.",
+    "example_cn": "这是一个包含“couple”的简单例句。"
+  },
+  {
+    "word": "course",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'course'.",
+    "example_cn": "这是一个包含“course”的简单例句。"
+  },
+  {
+    "word": "court",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'court'.",
+    "example_cn": "这是一个包含“court”的简单例句。"
+  },
+  {
+    "word": "cover",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cover'.",
+    "example_cn": "这是一个包含“cover”的简单例句。"
+  },
+  {
+    "word": "crime",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'crime'.",
+    "example_cn": "这是一个包含“crime”的简单例句。"
+  },
+  {
+    "word": "cultural",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cultural'.",
+    "example_cn": "这是一个包含“cultural”的简单例句。"
+  },
+  {
+    "word": "culture",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'culture'.",
+    "example_cn": "这是一个包含“culture”的简单例句。"
+  },
+  {
+    "word": "cup",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cup'.",
+    "example_cn": "这是一个包含“cup”的简单例句。"
+  },
+  {
+    "word": "current",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'current'.",
+    "example_cn": "这是一个包含“current”的简单例句。"
+  },
+  {
+    "word": "cut",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'cut'.",
+    "example_cn": "这是一个包含“cut”的简单例句。"
+  },
+  {
+    "word": "dark",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dark'.",
+    "example_cn": "这是一个包含“dark”的简单例句。"
+  },
+  {
+    "word": "data",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'data'.",
+    "example_cn": "这是一个包含“data”的简单例句。"
+  },
+  {
+    "word": "dead",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dead'.",
+    "example_cn": "这是一个包含“dead”的简单例句。"
+  },
+  {
+    "word": "deal",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'deal'.",
+    "example_cn": "这是一个包含“deal”的简单例句。"
+  },
+  {
+    "word": "death",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'death'.",
+    "example_cn": "这是一个包含“death”的简单例句。"
+  },
+  {
+    "word": "debate",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'debate'.",
+    "example_cn": "这是一个包含“debate”的简单例句。"
+  },
+  {
+    "word": "decision",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'decision'.",
+    "example_cn": "这是一个包含“decision”的简单例句。"
+  },
+  {
+    "word": "deep",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'deep'.",
+    "example_cn": "这是一个包含“deep”的简单例句。"
+  },
+  {
+    "word": "defense",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'defense'.",
+    "example_cn": "这是一个包含“defense”的简单例句。"
+  },
+  {
+    "word": "degree",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'degree'.",
+    "example_cn": "这是一个包含“degree”的简单例句。"
+  },
+  {
+    "word": "democrat",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'democrat'.",
+    "example_cn": "这是一个包含“democrat”的简单例句。"
+  },
+  {
+    "word": "democratic",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'democratic'.",
+    "example_cn": "这是一个包含“democratic”的简单例句。"
+  },
+  {
+    "word": "describe",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'describe'.",
+    "example_cn": "这是一个包含“describe”的简单例句。"
+  },
+  {
+    "word": "design",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'design'.",
+    "example_cn": "这是一个包含“design”的简单例句。"
+  },
+  {
+    "word": "detail",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'detail'.",
+    "example_cn": "这是一个包含“detail”的简单例句。"
+  },
+  {
+    "word": "determine",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'determine'.",
+    "example_cn": "这是一个包含“determine”的简单例句。"
+  },
+  {
+    "word": "develop",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'develop'.",
+    "example_cn": "这是一个包含“develop”的简单例句。"
+  },
+  {
+    "word": "development",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'development'.",
+    "example_cn": "这是一个包含“development”的简单例句。"
+  },
+  {
+    "word": "difference",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'difference'.",
+    "example_cn": "这是一个包含“difference”的简单例句。"
+  },
+  {
+    "word": "difficult",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'difficult'.",
+    "example_cn": "这是一个包含“difficult”的简单例句。"
+  },
+  {
+    "word": "dinner",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dinner'.",
+    "example_cn": "这是一个包含“dinner”的简单例句。"
+  },
+  {
+    "word": "direction",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'direction'.",
+    "example_cn": "这是一个包含“direction”的简单例句。"
+  },
+  {
+    "word": "director",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'director'.",
+    "example_cn": "这是一个包含“director”的简单例句。"
+  },
+  {
+    "word": "discover",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'discover'.",
+    "example_cn": "这是一个包含“discover”的简单例句。"
+  },
+  {
+    "word": "discuss",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'discuss'.",
+    "example_cn": "这是一个包含“discuss”的简单例句。"
+  },
+  {
+    "word": "discussion",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'discussion'.",
+    "example_cn": "这是一个包含“discussion”的简单例句。"
+  },
+  {
+    "word": "disease",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'disease'.",
+    "example_cn": "这是一个包含“disease”的简单例句。"
+  },
+  {
+    "word": "dog",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'dog'.",
+    "example_cn": "这是一个包含“dog”的简单例句。"
+  },
+  {
+    "word": "drive",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'drive'.",
+    "example_cn": "这是一个包含“drive”的简单例句。"
+  },
+  {
+    "word": "drop",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'drop'.",
+    "example_cn": "这是一个包含“drop”的简单例句。"
+  },
+  {
+    "word": "drug",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'drug'.",
+    "example_cn": "这是一个包含“drug”的简单例句。"
+  },
+  {
+    "word": "east",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'east'.",
+    "example_cn": "这是一个包含“east”的简单例句。"
+  },
+  {
+    "word": "economic",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'economic'.",
+    "example_cn": "这是一个包含“economic”的简单例句。"
+  },
+  {
+    "word": "economy",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'economy'.",
+    "example_cn": "这是一个包含“economy”的简单例句。"
+  },
+  {
+    "word": "edge",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'edge'.",
+    "example_cn": "这是一个包含“edge”的简单例句。"
+  },
+  {
+    "word": "education",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'education'.",
+    "example_cn": "这是一个包含“education”的简单例句。"
+  },
+  {
+    "word": "effect",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'effect'.",
+    "example_cn": "这是一个包含“effect”的简单例句。"
+  },
+  {
+    "word": "effort",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'effort'.",
+    "example_cn": "这是一个包含“effort”的简单例句。"
+  },
+  {
+    "word": "election",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'election'.",
+    "example_cn": "这是一个包含“election”的简单例句。"
+  },
+  {
+    "word": "else",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'else'.",
+    "example_cn": "这是一个包含“else”的简单例句。"
+  },
+  {
+    "word": "employee",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'employee'.",
+    "example_cn": "这是一个包含“employee”的简单例句。"
+  },
+  {
+    "word": "end",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'end'.",
+    "example_cn": "这是一个包含“end”的简单例句。"
+  },
+  {
+    "word": "energy",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'energy'.",
+    "example_cn": "这是一个包含“energy”的简单例句。"
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'enjoy'.",
+    "example_cn": "这是一个包含“enjoy”的简单例句。"
+  },
+  {
+    "word": "enough",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'enough'.",
+    "example_cn": "这是一个包含“enough”的简单例句。"
+  },
+  {
+    "word": "enter",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'enter'.",
+    "example_cn": "这是一个包含“enter”的简单例句。"
+  },
+  {
+    "word": "entire",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'entire'.",
+    "example_cn": "这是一个包含“entire”的简单例句。"
+  },
+  {
+    "word": "environment",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'environment'.",
+    "example_cn": "这是一个包含“environment”的简单例句。"
+  },
+  {
+    "word": "environmental",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'environmental'.",
+    "example_cn": "这是一个包含“environmental”的简单例句。"
+  },
+  {
+    "word": "especially",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'especially'.",
+    "example_cn": "这是一个包含“especially”的简单例句。"
+  },
+  {
+    "word": "establish",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'establish'.",
+    "example_cn": "这是一个包含“establish”的简单例句。"
+  },
+  {
+    "word": "even",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'even'.",
+    "example_cn": "这是一个包含“even”的简单例句。"
+  },
+  {
+    "word": "event",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'event'.",
+    "example_cn": "这是一个包含“event”的简单例句。"
+  },
+  {
+    "word": "ever",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'ever'.",
+    "example_cn": "这是一个包含“ever”的简单例句。"
+  },
+  {
+    "word": "everybody",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'everybody'.",
+    "example_cn": "这是一个包含“everybody”的简单例句。"
+  },
+  {
+    "word": "everyone",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'everyone'.",
+    "example_cn": "这是一个包含“everyone”的简单例句。"
+  },
+  {
+    "word": "everything",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'everything'.",
+    "example_cn": "这是一个包含“everything”的简单例句。"
+  },
+  {
+    "word": "evidence",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'evidence'.",
+    "example_cn": "这是一个包含“evidence”的简单例句。"
+  },
+  {
+    "word": "exactly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'exactly'.",
+    "example_cn": "这是一个包含“exactly”的简单例句。"
+  },
+  {
+    "word": "example",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'example'.",
+    "example_cn": "这是一个包含“example”的简单例句。"
+  },
+  {
+    "word": "executive",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'executive'.",
+    "example_cn": "这是一个包含“executive”的简单例句。"
+  },
+  {
+    "word": "exist",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'exist'.",
+    "example_cn": "这是一个包含“exist”的简单例句。"
+  },
+  {
+    "word": "expect",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'expect'.",
+    "example_cn": "这是一个包含“expect”的简单例句。"
+  },
+  {
+    "word": "experience",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'experience'.",
+    "example_cn": "这是一个包含“experience”的简单例句。"
+  },
+  {
+    "word": "expert",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'expert'.",
+    "example_cn": "这是一个包含“expert”的简单例句。"
+  },
+  {
+    "word": "eye",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is an simple example with 'eye'.",
+    "example_cn": "这是一个包含“eye”的简单例句。"
+  },
+  {
+    "word": "face",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'face'.",
+    "example_cn": "这是一个包含“face”的简单例句。"
+  },
+  {
+    "word": "fact",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fact'.",
+    "example_cn": "这是一个包含“fact”的简单例句。"
+  },
+  {
+    "word": "factor",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'factor'.",
+    "example_cn": "这是一个包含“factor”的简单例句。"
+  },
+  {
+    "word": "fail",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fail'.",
+    "example_cn": "这是一个包含“fail”的简单例句。"
+  },
+  {
+    "word": "fall",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fall'.",
+    "example_cn": "这是一个包含“fall”的简单例句。"
+  },
+  {
+    "word": "fear",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fear'.",
+    "example_cn": "这是一个包含“fear”的简单例句。"
+  },
+  {
+    "word": "federal",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'federal'.",
+    "example_cn": "这是一个包含“federal”的简单例句。"
+  },
+  {
+    "word": "feeling",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'feeling'.",
+    "example_cn": "这是一个包含“feeling”的简单例句。"
+  },
+  {
+    "word": "field",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'field'.",
+    "example_cn": "这是一个包含“field”的简单例句。"
+  },
+  {
+    "word": "fight",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fight'.",
+    "example_cn": "这是一个包含“fight”的简单例句。"
+  },
+  {
+    "word": "figure",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'figure'.",
+    "example_cn": "这是一个包含“figure”的简单例句。"
+  },
+  {
+    "word": "fill",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fill'.",
+    "example_cn": "这是一个包含“fill”的简单例句。"
+  },
+  {
+    "word": "film",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'film'.",
+    "example_cn": "这是一个包含“film”的简单例句。"
+  },
+  {
+    "word": "final",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'final'.",
+    "example_cn": "这是一个包含“final”的简单例句。"
+  },
+  {
+    "word": "finally",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'finally'.",
+    "example_cn": "这是一个包含“finally”的简单例句。"
+  },
+  {
+    "word": "financial",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'financial'.",
+    "example_cn": "这是一个包含“financial”的简单例句。"
+  },
+  {
+    "word": "fine",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fine'.",
+    "example_cn": "这是一个包含“fine”的简单例句。"
+  },
+  {
+    "word": "finger",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'finger'.",
+    "example_cn": "这是一个包含“finger”的简单例句。"
+  },
+  {
+    "word": "firm",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'firm'.",
+    "example_cn": "这是一个包含“firm”的简单例句。"
+  },
+  {
+    "word": "floor",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'floor'.",
+    "example_cn": "这是一个包含“floor”的简单例句。"
+  },
+  {
+    "word": "fly",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fly'.",
+    "example_cn": "这是一个包含“fly”的简单例句。"
+  },
+  {
+    "word": "focus",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'focus'.",
+    "example_cn": "这是一个包含“focus”的简单例句。"
+  },
+  {
+    "word": "foot",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'foot'.",
+    "example_cn": "这是一个包含“foot”的简单例句。"
+  },
+  {
+    "word": "force",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'force'.",
+    "example_cn": "这是一个包含“force”的简单例句。"
+  },
+  {
+    "word": "foreign",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'foreign'.",
+    "example_cn": "这是一个包含“foreign”的简单例句。"
+  },
+  {
+    "word": "form",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'form'.",
+    "example_cn": "这是一个包含“form”的简单例句。"
+  },
+  {
+    "word": "former",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'former'.",
+    "example_cn": "这是一个包含“former”的简单例句。"
+  },
+  {
+    "word": "forward",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'forward'.",
+    "example_cn": "这是一个包含“forward”的简单例句。"
+  },
+  {
+    "word": "front",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'front'.",
+    "example_cn": "这是一个包含“front”的简单例句。"
+  },
+  {
+    "word": "fund",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'fund'.",
+    "example_cn": "这是一个包含“fund”的简单例句。"
+  },
+  {
+    "word": "future",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'future'.",
+    "example_cn": "这是一个包含“future”的简单例句。"
+  },
+  {
+    "word": "gas",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'gas'.",
+    "example_cn": "这是一个包含“gas”的简单例句。"
+  },
+  {
+    "word": "general",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'general'.",
+    "example_cn": "这是一个包含“general”的简单例句。"
+  },
+  {
+    "word": "generation",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'generation'.",
+    "example_cn": "这是一个包含“generation”的简单例句。"
+  },
+  {
+    "word": "glass",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'glass'.",
+    "example_cn": "这是一个包含“glass”的简单例句。"
+  },
+  {
+    "word": "goal",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'goal'.",
+    "example_cn": "这是一个包含“goal”的简单例句。"
+  },
+  {
+    "word": "government",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'government'.",
+    "example_cn": "这是一个包含“government”的简单例句。"
+  },
+  {
+    "word": "great",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'great'.",
+    "example_cn": "这是一个包含“great”的简单例句。"
+  },
+  {
+    "word": "green",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'green'.",
+    "example_cn": "这是一个包含“green”的简单例句。"
+  },
+  {
+    "word": "ground",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'ground'.",
+    "example_cn": "这是一个包含“ground”的简单例句。"
+  },
+  {
+    "word": "growth",
+    "phonetic": "",
+    "meaning": "常见词汇",
+    "example": "This is a simple example with 'growth'.",
+    "example_cn": "这是一个包含“growth”的简单例句。"
   }
 ]

@@ -131,6 +131,7 @@ function buildChoices(array $words, int $answerIndex): array
     <nav>
         <a class="<?php echo $tab === 'flashcard' ? 'active' : ''; ?>" href="?tab=flashcard&word=<?php echo $flashIndex; ?>">单词卡片</a>
         <a class="<?php echo $tab === 'quiz' ? 'active' : ''; ?>" href="?tab=quiz">选择测验</a>
+        <a class="<?php echo $tab === 'words' ? 'active' : ''; ?>" href="?tab=words">全部单词</a>
     </nav>
 
     <?php if ($tab === 'flashcard'): ?>
@@ -140,6 +141,27 @@ function buildChoices(array $words, int $answerIndex): array
             <p class="phonetic"><?php echo htmlspecialchars($item['phonetic']); ?></p>
             <p><strong>中文释义：</strong><?php echo htmlspecialchars($item['meaning']); ?></p>
             <p><strong>例句：</strong><?php echo htmlspecialchars($item['example']); ?></p>
+            <?php if (!empty($item['example_cn'])): ?>
+                <p class="example-cn"><strong>例句翻译：</strong><?php echo htmlspecialchars($item['example_cn']); ?></p>
+            <?php endif; ?>
+            <div class="audio-actions">
+                <button
+                    class="btn secondary"
+                    type="button"
+                    data-speak="<?php echo htmlspecialchars($item['word']); ?>"
+                    data-lang="en-US"
+                >
+                    🔊 播放单词
+                </button>
+                <button
+                    class="btn secondary"
+                    type="button"
+                    data-speak="<?php echo htmlspecialchars($item['example']); ?>"
+                    data-lang="en-US"
+                >
+                    🎵 播放例句
+                </button>
+            </div>
 
             <div class="actions">
                 <a class="btn" href="?tab=flashcard&word=<?php echo max(0, $flashIndex - 1); ?>">上一词</a>
@@ -187,6 +209,70 @@ function buildChoices(array $words, int $answerIndex): array
             <?php endif; ?>
         </section>
     <?php endif; ?>
+
+    <?php if ($tab === 'words'): ?>
+        <section class="panel">
+            <h2>全部单词</h2>
+            <p>共 <?php echo $totalWords; ?> 个单词，点击“查看卡片”可进入对应学习页。</p>
+            <div class="word-list">
+                <?php foreach ($words as $index => $word): ?>
+                    <article class="word-item">
+                        <div class="word-main">
+                            <h3><?php echo htmlspecialchars($word['word']); ?></h3>
+                            <p class="phonetic"><?php echo htmlspecialchars($word['phonetic']); ?></p>
+                            <p><strong>中文释义：</strong><?php echo htmlspecialchars($word['meaning']); ?></p>
+                            <p><strong>例句：</strong><?php echo htmlspecialchars($word['example']); ?></p>
+                            <?php if (!empty($word['example_cn'])): ?>
+                                <p class="example-cn"><strong>例句翻译：</strong><?php echo htmlspecialchars($word['example_cn']); ?></p>
+                            <?php endif; ?>
+                        </div>
+                        <div class="word-actions">
+                            <button
+                                class="btn secondary"
+                                type="button"
+                                data-speak="<?php echo htmlspecialchars($word['word']); ?>"
+                                data-lang="en-US"
+                            >
+                                🔊 播放单词
+                            </button>
+                            <a class="btn" href="?tab=flashcard&word=<?php echo $index; ?>">查看卡片</a>
+                        </div>
+                    </article>
+                <?php endforeach; ?>
+            </div>
+        </section>
+    <?php endif; ?>
 </div>
+<script>
+(() => {
+    const speakButtons = document.querySelectorAll('[data-speak]');
+    if (!('speechSynthesis' in window) || speakButtons.length === 0) {
+        return;
+    }
+
+    const stopSpeaking = () => {
+        if (window.speechSynthesis.speaking) {
+            window.speechSynthesis.cancel();
+        }
+    };
+
+    speakButtons.forEach((button) => {
+        button.addEventListener('click', () => {
+            const text = button.getAttribute('data-speak');
+            const lang = button.getAttribute('data-lang') || 'en-US';
+            if (!text) {
+                return;
+            }
+
+            stopSpeaking();
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = lang;
+            utterance.rate = 0.95;
+            utterance.pitch = 1;
+            window.speechSynthesis.speak(utterance);
+        });
+    });
+})();
+</script>
 </body>
 </html>
